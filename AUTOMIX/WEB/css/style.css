@@ -1,0 +1,41 @@
+body {
+	background: #000000; color: #ffffff; font-family: sans-serif;
+}
+
+a, a:visited, a:active, a:hover {
+	color: #ffffff; text-decoration: none;
+}
+
+table {
+	width: 100%; line-height: 160%; font-size: 12px;
+}
+
+.titulo { }
+
+.expli1 { color: #fa1919; }
+
+.expli2 { color: #0085ff; }
+
+.termino {
+	text-align: center; font-weight: bold; color: purple; font-size: 20px;
+}
+
+.termino_1 {
+	text-align: center; font-weight: bold; color: purple; font-size: 16px;
+}
+
+.termino_mas {
+	text-align: center; font-weight: bold; color: purple; font-size: 16px;
+}
+
+.copy {
+	text-align: center; font-weight: bold; color: purple; font-size: 16px; 
+	border-top: 1px solid purple; padding-top: 10px;
+}
+
+.total {
+	text-align: center; font-weight: bold; color: purple; font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.cf-invisible { visibility: hidden; }

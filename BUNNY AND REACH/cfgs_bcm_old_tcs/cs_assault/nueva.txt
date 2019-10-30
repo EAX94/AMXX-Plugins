@@ -1,0 +1,144 @@
+"boost" -400 1744 264 "NOT ME'     T! CS" "big" "0" "" "" "" "" 0 90
+"block" 0 2464 496 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" -1496 -376 352 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -288 960 384 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"speed" -2472 376 8 "AyudaTinga | Sherlock" "norm" "1200.0" "400" "1" "" "" 0 0
+"ice" -928 1088 272 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"fall" -2400 2792 8 "AyudaTinga | Sherlock" "big" "" "" "" "" "" 0 90
+"boost" -1224 -40 24 "ayudatinga | )rury(" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 72 144 376 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -200 48 400 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -832 1024 296 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -432 960 360 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"ice" -256 2480 312 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"speed" -2488 2696 568 "AyudaTinga | Sherlock" "norm" "1000" "0.0" "1" "" "" 0 0
+"fatalis" -1768 2376 392 "Mystical ;     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" 224 760 488 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -712 992 320 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 488 80 368 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"ice" -576 960 336 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"fall" -2472 272 8 "AyudaTinga | Sherlock" "big" "" "" "" "" "" 0 90
+"boost" -680 456 392 "ayudatinga | kabal" "tiny" "450" "" "" "" "" 0 0
+"window" 584 376 352 "AyudaTinga | fantasy" "big" "128.0" "" "" "" "" 0 90
+"bhop" -584 8 408 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"block" -2488 2760 568 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"boost" -2480 2864 16 "AyudaTinga | Sherlock" "tiny" "1000" "" "" "" "" 0 0
+"bhop" -1720 1504 328 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -8 880 424 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" -1504 2112 40 "AyudaTinga | Sherlock" "norm" "0" "" "" "" "" 90 90
+"ice" -2520 2280 512 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" -1112 1632 456 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"ice" -864 400 400 "ayudatinga | kabal" "tiny" "" "" "" "" "" 0 0
+"window" -1504 2032 40 "AyudaTinga | Sherlock" "norm" "0" "" "" "" "" 90 90
+"bhop" 848 1544 504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 136 400 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1568 -320 216 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"tink" 880 2080 520 "wckdsck     T! CS" "tiny" "2" "3" "" "" "" 0 0
+"bhop" 640 1304 528 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1504 2072 80 "AyudaTinga | Sherlock" "norm" "puente" "" "" "" "" 0 0
+"bhop" -1872 -312 216 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1536 400 392 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"tele" -1992 2144 40 "AyudaTinga | Sherlock" "other" "atrasdepuente" "puente" "" "" "" 0 0
+"bhop" 640 984 528 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -80 112 392 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 640 1168 528 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1424 2208 400 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"ice" -2480 1112 368 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" -1000 328 384 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"ice" -2448 2000 496 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" 0 1416 504 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 368 1768 352 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1248 2048 440 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -968 56 440 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -456 64 400 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -264 2632 312 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1192 1944 448 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -1712 1784 352 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1672 24 368 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1288 2152 416 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -1544 784 392 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 200 80 376 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 360 80 376 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1712 1656 336 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"ice" -2576 1688 448 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" -256 2280 312 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"tele" -1512 2072 48 "AyudaTinga | Sherlock" "other" "" "atrasdepuente" "" "" "" 0 0
+"ice" 784 1408 520 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -840 32 432 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"tink" -1552 2328 400 "ayudatinga | )rury(" "norm" "2" "1.0" "" "" "" 0 0
+"window" -728 -16 408 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -336 432 480 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 0 90
+"speed" -2480 2696 8 "AyudaTinga | Sherlock" "norm" "1200" "0" "1" "" "" 0 0
+"bhop" -1720 2136 392 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"window" -1864 -40 360 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"block" -1360 -24 184 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1448 -120 200 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1448 -256 208 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1696 -360 216 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -256 2152 312 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1888 -152 208 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"ice" -2536 1392 416 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"boost" -1872 80 264 "ayudatinga | )rury(" "tiny" "470" "" "" "" "" 0 0
+"fall" -656 8 24 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -256 1992 312 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1720 1904 368 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1720 2016 384 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -1720 2264 392 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" -2360 1024 376 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"ice" -1120 1808 448 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2376 880 392 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" -2456 760 408 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"ice" -1528 168 384 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1080 184 416 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 352 1976 384 "Ayudatinga | gaby" "tiny" "" "" "" "" "" 0 0
+"window" 624 1560 112 "Ayudatinga | [ G e R ]" "norm" "0" "" "" "" "" 0 0
+"ice" 0 1848 400 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" 136 1848 400 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1544 584 392 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"window" -1680 960 392 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 480 1656 288 "Ayudatinga | gaby" "norm" "128.0" "" "" "" "" 90 0
+"window" -872 1400 600 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -368 2496 416 "DenisS* s2 Aily     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -400 2360 400 "DenisS* s2 Aily     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"speed" 80 1088 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"fall" -160 512 8 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -160 1504 504 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" -1632 -56 8 "wckdsck     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" 168 1256 480 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1968 256 400 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"fall" -2152 256 24 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 96 1128 456 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 248 1424 496 "Gasper     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" 848 1776 504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -48 1008 432 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2112 264 416 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -296 1360 504 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -464 1448 520 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -624 1496 528 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -872 1544 600 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -944 1472 600 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -872 1472 536 "Gasper     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 824 2024 512 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -2480 296 456 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -2232 280 440 "heroine     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"tink" -2584 248 8 "Compli <3     T! CS" "norm" "25" "1.0" "" "" "" 0 0
+"bhop" 104 816 448 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 608 192 368 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"ice" -128 1856 400 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"ice" -272 2016 408 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"ice" -264 2280 408 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -2480 648 424 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -2480 488 448 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" -1136 1384 472 ".alan1     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" -256 1832 312 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 440 1920 368 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"fall" 288 672 56 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"ice" -160 920 400 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"ice" -1704 1280 304 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"delay" -1472 2072 40 "AyudaTinga | Sherlock" "norm" "3" "" "" "" "" 90 0
+"bhop" -1776 -200 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -656 2240 360 "wckdsck     T! CS" "tiny" "" "" "" "" "" 90 90
+"window" -328 1712 224 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"fall" -2560 2792 8 "AyudaTinga | Sherlock" "big" "" "" "" "" "" 0 90
+"block" 648 408 480 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"bhop" -1864 0 224 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0

@@ -1,0 +1,6 @@
+native sj_arquero(id)
+native sj_arquero_t(id)
+native sj_arquero_ct(id)
+native sj_ballin(id)
+native sj_ball_in_arc()
+native sj_ball_none()

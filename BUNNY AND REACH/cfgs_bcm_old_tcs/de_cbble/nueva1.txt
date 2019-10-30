@@ -1,0 +1,172 @@
+"speed" -800 2280 -248 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 296 -568 168 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 320 776 224 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 608 -824 176 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 456 -656 168 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1320 904 256 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 168 840 224 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1392 904 256 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 112 1320 152 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -680 2304 192 "Berserk3r     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"boost" -1528 1408 168 "lady.alan1     T! CS" "big" "0" "" "" "" "" 0 90
+"bhop" 24 904 216 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 840 -920 40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1008 -960 40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -376 2848 136 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 -1200 32 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 672 -688 32 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"boost" -560 2616 8 "Berserk3r     T! CS" "tiny" "400" "" "" "" "" 0 0
+"bhop" -2080 1792 120 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -240 2824 136 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1880 1536 152 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1736 1480 168 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1368 2424 200 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -128 2744 152 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2024 2560 200 "s4nt0^     t! cS.-" "norm" "200" "" "" "" "" 0 0
+"bhop" -48 2048 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1456 2112 208 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"ice" -80 1888 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -304 1208 200 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" 1384 -1520 216 "NoT mE'     T! CS" "big" "1" "2" "" "" "" 0 90
+"ice" -1488 2560 192 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -1664 2552 192 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 0 2224 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -8 2712 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 120 2488 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 1416 192 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"ice" 112 2360 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1504 1400 200 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"ice" 464 -104 128 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 200 -256 120 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -1664 944 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"ice" -1832 1032 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1960 1168 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2008 1328 240 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"window" -2032 1640 272 "s4nt0^     t! cS.-" "big" "128.0" "" "" "" "" 0 90
+"bhop" -1832 2576 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -168 2336 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1904 1840 248 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2408 2520 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1784 1944 232 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 1968 216 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2520 2064 192 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1384 2264 208 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -176 1416 216 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -696 2360 184 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 136 -168 88 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 90 90
+"ice" 1152 -1408 208 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"boost" -320 1224 96 "Berserk3r     T! CS" "big" "0" "" "" "" "" 0 90
+"bhop" 616 -1024 176 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -96 976 208 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1416 1288 208 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1360 1168 216 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 1024 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 704 -344 72 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 704 -200 88 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 176 1184 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 592 -112 104 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2656 1632 208 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"speed" 1024 -1008 -120 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 328 -96 160 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2224 2504 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 816 -1256 -88 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 992 -1352 200 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2512 2232 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2512 2384 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"fall" -2336 424 -248 "s4nt0^     t! cS.-" "big" "" "" "" "" "" 0 90
+"speed" -2296 1624 8 "s4nt0^     t! cS.-" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"boost" 488 776 136 "Berserk3r     T! CS" "tiny" "350" "" "" "" "" 0 0
+"bhop" -120 1568 240 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 40 1704 232 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1080 -816 0 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"window" -1256 -864 104 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 90 0
+"bhop" -1248 -792 8 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -1072 -944 16 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"window" -1120 -856 104 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 90 0
+"bhop" -1088 -1080 32 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1208 -1136 48 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1392 -816 8 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 120 2640 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1296 -1032 40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -432 2376 184 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1168 -936 40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 2224 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2024 1480 256 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" 704 -824 32 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 232 -400 176 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 664 -1256 -64 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2600 1920 192 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 312 1024 160 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2648 1776 200 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 -1232 64 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 56 1448 136 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2576 1272 208 "s4nt0^     t! cS.-" "big" "128.0" "" "" "" "" 0 90
+"bhop" 112 -784 40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 840 -1224 192 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 800 -1016 184 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -272 1064 184 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -1200 -872 144 "s4nt0^     t! cS.-" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2616 1384 200 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" 360 -1088 -16 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 288 -976 0 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -40 -832 56 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2968 -880 232 "s4nt0^     t! cS.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -2088 -680 152 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2192 -568 168 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"fatalis" -608 -808 136 "NoT mE'     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"bhop" -2336 -528 184 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"ice" -2248 -1856 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -688 2816 96 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 90 90
+"block" -1112 2152 136 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"window" 72 -632 288 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 90
+"ice" -2472 -568 192 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" -1144 -928 152 "s4nt0^     t! cS.-" "tiny" "2.0" "1.0" "" "" "" 0 0
+"block" -2056 160 56 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"speed" -624 -1008 -120 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -2656 -544 216 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2824 -552 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2960 -696 224 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 216 -864 16 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -120 -960 64 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1504 -1104 120 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 160 1816 224 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 256 1952 232 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1616 -976 128 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1464 -864 136 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" 296 2120 224 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -336 1064 184 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"boost" -2136 -1184 16 "Berserk3r     T! CS" "tiny" "410" "" "" "" "" 0 0
+"bhop" -2032 -1600 152 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -160 -1144 56 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2136 -1720 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2432 -1944 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2592 -2008 208 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -368 -1168 96 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -504 -1128 120 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -608 -1048 144 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2760 -2000 216 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2848 -1832 224 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -608 -904 168 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2136 -1000 136 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"window" -2840 -1040 256 "s4nt0^     t! cS.-" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2768 -1672 232 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2680 -1512 240 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2560 -1360 248 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2456 -1096 248 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fatalis" -640 -920 136 "NoT mE'     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" -568 -736 176 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2104 -840 152 "s4nt0^     t! cS.-" "norm" "" "" "" "" "" 0 0
+"bhop" -208 -784 208 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -416 -752 192 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -8 -768 224 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" -80 -592 224 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -2528 -1096 312 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 72 -768 288 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 90 90
+"tink" -2896 -1088 264 "s4nt0^     t! cS.-" "tiny" "2.0" "1.0" "" "" "" 0 0
+"fatalis" -896 320 136 "NoT mE'     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"tink" -2416 -1048 256 "Berserk3r     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" -1152 -816 104 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 90 90
+"window" -1224 -816 104 "s4nt0^     t! cS.-" "norm" "128.0" "" "" "" "" 90 90
+"window" -696 2432 240 "Berserk3r     T! CS" "big" "0" "" "" "" "" 90 0
+"fatalis" -2704 1528 136 "s4nt0^     t! cS.-" "big" "125.0" "1.0" "" "" "" 0 90
+"window" 376 2320 232 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90

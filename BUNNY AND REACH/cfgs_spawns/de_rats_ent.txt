@@ -1,0 +1,120 @@
+{
+  "classname" "info_player_deathmatch"
+  "origin" "112 -686 -130"
+  "angle" "0 275 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-166 -936 -130"
+  "angle" "0 60 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "140 -939 -130"
+  "angle" "0 0 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-53 -686 -130"
+  "angle" "0 265 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-127 -918 -594"
+  "angle" "0 356 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "164 -911 -594"
+  "angle" "0 21 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "130 407 -98"
+  "angle" "0 278 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "332 443 -98"
+  "angle" "0 4 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "283 210 -98"
+  "angle" "0 8 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-211 469 -98"
+  "angle" "0 353 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-576 400 48"
+  "angle" "0 0 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-496 488 48"
+  "angle" "0 175 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-512 392 -592"
+  "angle" "0 105 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-592 456 -592"
+  "angle" "0 208 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-448 368 48"
+  "angle" "0 115 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-432 208 -32"
+  "angle" "0 115 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-608 208 -96"
+  "angle" "0 57 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-496 400 -96"
+  "angle" "0 336 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-416 384 -96"
+  "angle" "0 102 0"
+}
+
+{
+  "classname" "info_player_start"
+  "origin" "-384 488 -96"
+  "angle" "0 2 0"
+}
+

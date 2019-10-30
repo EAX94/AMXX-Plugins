@@ -1,0 +1,20 @@
+// Team numbers
+enum
+{
+	SPECTATOR = 0,
+	SURVIVORS,
+	ZOMBIES
+}
+
+// Weapon IDs
+enum
+{
+	CROWBAR = 1,
+	PISTOL = 2,
+	MAGNUM = 3,
+	ASSAULT_RIFLE = 4,
+	SHOTGUN = 7,
+	DYNAMITE = 12,
+	REMOTE_BOMB = 14,
+	ZOMBIE_CLAWS = 20
+}

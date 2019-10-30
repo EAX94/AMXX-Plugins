@@ -1,0 +1,183 @@
+"bhop" -848 1952 24 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"boost" -96 -352 -48 "Berserk3r     T! CS" "big" "0" "" "" "" "" 0 90
+"window" 424 -1800 200 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 0
+"fatalis" 1392 432 -56 "wckdsck     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"bhop" 1728 880 136 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1584 1032 128 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" -1424 -2248 -56 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1504 840 -24 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" 1688 808 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 1064 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 920 0 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 1216 40 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 1352 56 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 1512 72 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" 1448 832 -16 "wckdsck     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"block" -1008 280 -416 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1504 656 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 64 1896 -8 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 64 1760 0 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 0 1600 16 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -32 2040 -16 "wckdsck     T! CS" "norm" "2.0" "1.0" "" "" "" 0 0
+"tink" -824 -320 -40 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" -928 -296 -56 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1048 -296 -56 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -992 -296 -56 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1024 -1968 -8 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -1032 -1824 -16 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"window" 768 528 80 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -504 -1896 136 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1112 -296 -80 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 504 -1328 -72 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"fall" -120 760 -424 "wckdsck     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" -632 -1968 136 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1512 1400 -32 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 1216 -48 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"window" 8 1872 120 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1584 1144 -40 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 192 -936 -32 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -208 944 72 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -176 784 56 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1232 -624 -96 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -208 1112 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -152 1296 104 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 8 896 32 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 0 640 24 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -688 -152 -104 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -616 384 -344 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 72 1456 16 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 8 1216 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -264 1840 -48 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -128 1944 -40 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 1416 1520 -40 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" 432 -1976 128 "-aln nosound 95.1     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1360 1808 -72 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 1432 1656 -56 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" -1008 1568 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 392 -312 -16 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"bhop" 1672 1456 -40 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 1776 1344 -48 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 1504 1008 -40 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"bhop" 464 -1464 -40 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 256 -1352 72 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 64 -216 -16 "-aln1" "tiny" "" "" "" "" "" 0 0
+"fatalis" 264 -528 -40 "wckdsck     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"window" 568 632 -24 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1704 1624 80 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 592 -1320 -80 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 90 90
+"bhop" 272 -1032 -8 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1352 576 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -592 216 -320 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 496 -584 -40 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" 1704 1776 80 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 8 1056 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -840 1616 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 480 -1864 -152 ".alan1     T! CS" "tiny" "350" "" "" "" "" 0 0
+"bhop" -736 96 -96 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 344 -1328 -80 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"boost" 544 584 -16 "wckdsck     T! CS" "tiny" "400v" "" "" "" "" 0 0
+"bhop" 224 -1128 24 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 352 -1424 96 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 456 -1624 -48 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 944 496 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 272 760 -16 "ayudantinga , cuczj" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 488 -1120 -16 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 440 -928 -24 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 200 -216 -24 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"block" 352 -1312 -72 "-aln1" "tiny" "" "" "" "" "" 0 0
+"block" -72 -208 8 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 40 -544 48 "ayudantinga KU|used----" "norm" "" "" "" "" "" 0 0
+"bhop" 344 -1512 112 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 432 -1624 128 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fatalis" 208 -392 32 "s4nt0^     T! CS" "tiny" "125.0" "1.0" "" "" "" 0 0
+"bhop" 312 -1216 48 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1536 -1272 264 "iP; alnSGt0hh.-" "big" "0" "" "" "" "" 90 0
+"boost" -1352 1936 -56 "Ayudantinga kajva*" "tiny" "400" "" "" "" "" 0 0
+"bhop" -688 1728 24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1000 2008 24 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -688 1888 24 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 440 -1256 160 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 472 -1496 160 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"speed" -1000 1848 -176 "Complicated <3" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -1176 1568 32 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -24 -1352 80 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 32 192 -480 "ayudantinga KU|used----" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 8 -320 56 "Ayudantinga Cuaje.^" "tiny" "" "" "" "" "" 0 0
+"bhop" -16 -672 56 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"ice" 1024 528 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -16 -808 56 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"bhop" 48 -976 56 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"bhop" -32 -1120 64 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"bhop" -768 512 -360 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -248 1944 192 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -248 1808 192 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 56 -1232 64 "-aln1" "norm" "" "" "" "" "" 0 0
+"window" -184 1872 192 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -720 -1648 176 "ayudantinga KU|used----" "norm" "0" "" "" "" "" 90 0
+"bhop" -768 -2032 144 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1144 2008 16 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" 656 1504 -48 "ayudantinga KU|used-----" "norm" "128.0" "" "" "" "" 0 0
+"boost" 128 392 -120 "Complicated <3" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" -880 -1920 144 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1040 320 -472 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"bhop" 464 -1384 160 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1016 -1992 136 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 504 -400 -32 "-aln1" "norm" "" "" "" "" "" 0 0
+"bhop" -224 -1960 128 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -376 -2032 128 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 72 -2056 136 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 224 -1968 128 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -48 -1568 72 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1040 -2088 -24 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1152 -1888 144 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -72 -2008 128 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -1336 -1720 16 "-aln nosound 95.1     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"window" -1320 -1984 144 "-aln nosound 95.1     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 784 624 -32 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1544 1776 80 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1104 496 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1264 496 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1432 504 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 688 -352 -80 "-aln1" "norm" "128.0" "" "" "" "" 90 0
+"window" 680 -448 -112 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1408 1848 88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -776 1840 136 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1272 1744 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1128 1832 88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 928 1840 96 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 416 -1144 160 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1600 504 96 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1184 576 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 584 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 712 136 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1392 1040 152 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 168 -1928 -32 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -1208 1768 72 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1056 1848 88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 288 -2016 -32 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 48 -1856 -40 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -112 -1800 -48 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -904 1736 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -328 -1800 -32 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -736 -1976 -40 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -440 -1864 -24 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -888 -2064 -40 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -1176 -1784 8 "-aln nosound 95.1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -336 1680 -56 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 1240 1928 -72 "ayudantinga , cuczj" "norm" "" "" "" "" "" 0 0
+"window" -1408 1568 40 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fall" 32 -1384 -176 "s4nt0^     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" 456 -1040 152 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 448 -936 152 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 456 -792 152 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 456 -600 136 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 464 -528 144 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -592 -1864 -32 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -600 1760 136 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -472 1864 136 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -248 1880 128 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -88 1448 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 0 1592 120 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -1328 -728 -88 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"fall" 1384 864 -152 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -224 -1744 -32 "Berserk3r     T! CS x___x" "norm" "128.0" "" "" "" "" 0 0

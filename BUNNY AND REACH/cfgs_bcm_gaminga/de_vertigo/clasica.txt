@@ -1,0 +1,187 @@
+"window" -1040 -1048 368 "wckdsck     T! CS.ARGENTINA" "big" "128" "" "" "" "" 90 0
+"bhop" -2632 224 32 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"block" -1392 288 -152 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"block" -192 -480 296 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"tink" -1592 -472 168 "CaMe" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" -1056 -1056 136 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -1120 -912 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1064 -792 128 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -816 -1408 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1824 352 -232 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" -1856 -1280 136 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"ice" -2328 -968 24 "CaMe" "tiny" "" "" "" "" "" 0 0
+"window" -2224 -1408 200 "wckdsck     T! CS | NCIS <3" "norm" "128.0" "" "" "" "" 90 90
+"boost" -1528 504 -160 "s4Nt0^     T! CS" "tiny" "0" "" "" "" "" 0 0
+"bhop" -1424 -128 -160 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -1688 448 96 "-aln is my energy" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1496 -240 120 "CaMe" "norm" "" "" "" "" "" 0 0
+"ice" -1648 -208 112 "CaMe" "tiny" "" "" "" "" "" 0 0
+"bhop" -568 -1408 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -264 -1408 216 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -8 -528 384 "-aln is my energy" "big" "0" "" "" "" "" 90 90
+"bhop" -104 -1024 256 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -104 -896 256 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -104 -1152 256 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"fatalis" -968 -512 304 "-aln is my energy" "norm" "140" "1.0" "" "" "" 0 0
+"bhop" -104 -1272 256 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -2288 -1280 72 "CaMe" "norm" "" "" "" "" "" 0 0
+"bhop" -560 416 -184 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"bhop" -576 272 -192 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"block" -1120 -992 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -1128 -656 328 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"block" -128 -480 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -408 -488 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1936 144 -208 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -976 672 -136 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -336 -1496 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"window" -40 -1152 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -624 -1496 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"ice" -1496 -440 128 "CaMe" "tiny" "" "" "" "" "" 0 0
+"block" -56 -480 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -456 -488 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tele" -1760 -752 48 "wckdsck     T! CS.ARGENTINA" "other" "" "salidaaa" "" "" "" 0 0
+"ice" -992 -816 -40 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -560 120 -208 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"bhop" -2112 -984 112 "CaMe" "norm" "" "" "" "" "" 0 0
+"bhop" -2024 -1128 104 "CaMe" "norm" "" "" "" "" "" 0 0
+"bhop" -2136 -1248 96 "CaMe" "norm" "" "" "" "" "" 0 0
+"bhop" -1712 352 -248 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1864 -184 -168 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" -2432 -1200 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"window" -40 -1312 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -1792 -272 -224 "ayudatinga | niiqo" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2344 -1144 48 "CaMe" "norm" "" "" "" "" "" 0 0
+"fatalis" -1632 56 8 "NoT mE'     T! CS" "tiny" "125.0" "1.0" "" "" "" 0 0
+"block" -496 -504 320 "Complicated <3" "norm" "" "" "" "" "" 90 0
+"window" -200 -1480 288 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"block" -576 496 -152 "CaMe" "tiny" "" "" "" "" "" 0 0
+"bhop" -2640 520 24 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -464 -1496 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2192 -1568 80 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"ice" -1912 -1568 88 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"tele" -2528 -1120 -264 "wckdsck     T! CS.ARGENTINA" "other" "salidaaa" "" "" "" "" 0 0
+"window" -1856 -1152 136 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"bhop" -2344 -1568 80 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -456 864 -184 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -136 -528 464 "Complicated <3" "big" "0" "" "" "" "" 90 0
+"ice" -1056 -1184 144 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -752 -1496 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"window" -40 -1024 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -40 -864 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -40 -736 280 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -1776 -776 128 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 0 90
+"window" -2432 -1336 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"window" -2568 592 48 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"window" -2432 -1064 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"fatalis" -1584 56 8 "NoT mE'     T! CS" "tiny" "125.0" "1.0" "" "" "" 0 0
+"boost" -1736 -888 16 "NoT mE'     T! CS" "tiny" "410" "" "" "" "" 0 0
+"bhop" -2032 928 40 "wckdsck     T! CS.ARGENTINA" "tiny" "" "" "" "" "" 0 0
+"window" -112 -560 464 "wckdsck     T! CS.ARGENTINA" "big" "0" "" "" "" "" 90 0
+"window" -2552 280 120 "wckdsck     T! CS.ARGENTINA" "norm" "0" "" "" "" "" 90 90
+"window" -1648 176 192 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 0
+"bhop" -1488 160 -160 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"fatalis" -2384 -1512 168 "EmnL     T! CS" "tiny" "125.0" "1.0" "" "" "" 0 0
+"boost" -1656 -40 -280 "ayudatinga | niiqo" "tiny" "400" "" "" "" "" 0 0
+"boost" -1096 -712 8 "ayudatinga | niiqo" "tiny" "420" "" "" "" "" 0 0
+"ice" -1752 -40 120 "CaMe" "tiny" "" "" "" "" "" 0 0
+"ice" -424 -1408 200 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1232 440 64 "-aln is my energy" "big" "128.0" "" "" "" "" 90 90
+"bhop" -104 -768 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -312 -784 272 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -1152 112 104 "Ayudantinga" "norm" "" "" "" "" "" 0 0
+"bhop" -1776 -1520 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -928 -528 352 "-aln is my energy" "big" "128.0" "" "" "" "" 0 90
+"block" 72 488 -192 "EmnL     T! CS" "tiny" "" "" "" "" "" 90 90
+"bhop" -696 -1408 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1064 -928 128 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 1048 16 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -960 -1320 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -2216 1024 88 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 0
+"window" -1848 -1408 136 "Ayudantinga" "big" "128.0" "" "" "" "" 90 90
+"window" -2344 1024 88 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 0
+"bhop" -120 -216 40 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -1536 -40 -136 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" -104 -296 96 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -272 -128 144 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -752 176 -208 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"window" -1536 -168 -136 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" -160 792 -144 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"block" -1120 952 -136 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -504 200 72 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" -464 272 80 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -288 312 144 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -32 504 -224 "-aln samba di janeiro     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2600 -1160 96 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -1848 -776 64 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"block" -544 -480 296 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -1912 56 -192 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1912 272 -224 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 656 16 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2632 368 32 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"ice" -2640 920 16 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2344 1056 8 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2488 1056 16 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -2432 -960 200 "Luchoo     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -1536 88 -136 "Luchoo     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1800 -944 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2048 -1568 88 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2096 -872 128 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1808 -1240 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1808 -1096 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1808 -1392 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1952 -776 120 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" -1856 -896 136 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"window" -1856 -1024 136 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"ice" -2208 1056 8 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 784 16 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -904 -1488 280 "Ayudantinga" "big" "128.0" "" "" "" "" 90 0
+"boost" -1096 848 -112 "Ayudantinga Compli <3" "tiny" "500.0" "" "" "" "" 0 0
+"window" -2208 -1408 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 0
+"window" -2064 -1408 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 0
+"window" -1928 -1408 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 0
+"window" -2352 -1408 96 "Ayudantinga" "big" "128.0" "" "" "" "" 90 0
+"window" -2568 384 48 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"boost" -336 1000 -144 "Garu^ D x Vida" "norm" "0" "" "" "" "" 0 0
+"bhop" -2600 -1024 88 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -2528 -1568 88 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"boost" -72 400 -280 "-aln samba di janeiro     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"block" -592 360 -168 "p-LA-YE-RS-UE-LO Ayudantinga" "norm" "" "" "" "" "" 90 0
+"bhop" -1488 -224 -168 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1416 400 -152 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1448 512 -152 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1480 632 -144 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"block" -2600 -896 104 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2600 -1304 96 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"ice" -624 -504 352 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -1080 -576 352 "-aln is my energy" "big" "128.0" "" "" "" "" 0 90
+"window" -2432 -792 96 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" -624 808 -128 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"ice" -216 352 -216 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"window" -2136 -1408 200 "wckdsck     T! CS | NCIS <3" "norm" "128.0" "" "" "" "" 90 90
+"boost" -2320 -1496 96 "Garu^" "norm" "0" "" "" "" "" 0 0
+"bhop" -1048 768 -128 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"ice" -232 384 -256 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -144 640 -152 "Ayudantinga Compli <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -1416 0 -152 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -2560 736 48 "-aln1" "big" "128.0" "" "" "" "" 90 90
+"block" -736 288 -168 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -2432 -928 96 "Ayudantinga Compli <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1496 728 -144 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -2056 -1408 200 "wckdsck     T! CS | NCIS <3" "norm" "128.0" "" "" "" "" 90 90
+"block" -1496 832 -144 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -816 136 64 "Luchoo     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -2432 -760 200 "Luchoo     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -2432 -864 200 "Luchoo     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -2432 -688 200 "Luchoo     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"fatalis" -408 592 128 "Luchoo     T! CS" "norm" "125" "1.0" "" "" "" 0 0
+"window" -2432 -696 104 "Luchoo     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"ice" -2600 -1456 96 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -656 -56 -176 "-aln is my energy" "big" "128.0" "" "" "" "" 90 90
+"window" -224 240 -216 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"window" -2528 632 64 "-aln is my energy" "norm" "0" "" "" "" "" 90 90
+"ice" -992 -984 -80 "Ayudantinga Compli <3" "norm" "" "" "" "" "" 0 0
+"window" -704 384 -40 "-aln is my energy" "big" "128.0" "" "" "" "" 0 90
+"window" -2016 872 48 "-aln is my energy" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -1896 -80 -176 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" -2128 856 152 "wckdsck     T! CS.ARGENTINA" "norm" "0" "" "" "" "" 90 0
+"window" -2536 -1304 168 "NoT mE'     T! CS" "norm" "0" "" "" "" "" 90 0

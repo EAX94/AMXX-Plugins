@@ -1,0 +1,187 @@
+"window" 584 784 232 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 712 784 232 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1232 2640 144 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -2072 -520 264 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -1712 -136 320 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1712 -328 248 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 1120 808 232 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 1032 280 208 "COmpli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"window" 496 1496 264 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 752 2192 128 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1688 728 176 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 864 2136 136 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 952 2384 168 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1192 2288 168 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1304 2376 168 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"fatalis" -1256 2184 200 "Compli <3     T! CS" "big" "125" "1.0" "" "" "" 90 90
+"fatalis" 1280 1536 280 "-aln     T! CS" "tiny" "150" "1.0" "" "" "" 0 0
+"bhop" -1744 2496 280 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1256 536 208 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1048 2288 168 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1048 2360 168 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 1256 656 216 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1448 1152 224 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1304 784 216 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1872 96 248 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1896 -160 272 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1672 240 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1632 624 184 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1472 320 256 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"window" 1344 328 256 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"window" 240 2160 160 "-aln     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 832 872 168 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 520 184 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1472 448 192 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -1560 -112 32 "Compli <3     T! CS" "tiny" "280" "" "" "" "" 0 0
+"bhop" -1720 48 120 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1816 128 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2200 -896 328 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -1896 240 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1936 376 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -1568 -1016 376 "-aln     T! CS" "big" "" "" "" "" "" 90 0
+"bhop" -1864 560 144 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1760 464 168 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1704 352 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1768 136 240 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1904 -32 256 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 696 216 216 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1592 2856 200 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1952 3032 192 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 0
+"block" -1632 2840 72 "-aln     T! CS" "big" "" "" "" "" "" 90 0
+"bhop" -1528 -352 272 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1512 -512 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1528 -736 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1672 -848 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1856 -848 296 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1992 -784 296 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2016 -992 392 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"tink" -2160 -600 296 "Compli <3     T! CS" "big" "2.0" "1.0" "" "" "" 0 90
+"window" -2048 3040 192 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1736 2648 344 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -112 1600 264 "-aln     T! CS" "big" "0" "" "" "" "" 90 0
+"window" 1088 136 320 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 56 -848 112 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 184 -752 112 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 272 -648 120 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 296 -520 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 256 -360 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -144 -904 128 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -240 1912 160 "-aln     T! CS" "big" "555" "" "" "" "" 90 90
+"bhop" -1632 2176 184 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -232 1792 160 "-aln     T! CS" "big" "555" "" "" "" "" 90 90
+"block" -232 2272 160 "-aln     T! CS" "big" "" "" "" "" "" 90 90
+"block" -224 2392 160 "-aln     T! CS" "big" "" "" "" "" "0" 90 90
+"bhop" -440 752 264 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 400 -256 144 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 512 -304 160 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 432 -352 232 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" -1840 2280 256 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"fall" -1688 2688 8 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1768 2336 264 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 384 -320 232 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"speed" -1544 2152 8 "// Leox     T! CS" "norm" "1100" "0.0" "1" "" "" 0 0
+"bhop" 496 144 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 672 -200 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 632 64 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 720 -56 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 320 160 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -328 2192 120 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 80 344 192 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" 608 -320 176 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1272 2656 200 "// Leox     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" 680 -360 208 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 544 -360 208 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 544 216 216 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -1680 2360 128 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1632 2272 160 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1792 2152 232 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -176 800 136 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -688 2576 152 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -240 944 144 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1864 2192 248 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1712 2128 208 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 344 -656 208 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 344 -808 208 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -1744 2600 280 "// Leox     T! CS" "norm" "200" "" "" "" "" 0 0
+"boost" -1016 2456 128 "// Leox     T! CS" "tiny" "250" "" "" "" "" 0 0
+"boost" -1048 2280 128 "// Leox     T! CS" "tiny" "240" "" "" "" "" 0 0
+"bhop" -152 376 208 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -296 360 224 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -408 480 232 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -464 928 264 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -432 624 248 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -152 624 96 "Compli <3     T! CS" "tiny" "300" "" "" "" "" 0 0
+"boost" -1072 2112 104 "// Leox     T! CS" "big" "0" "" "" "" "" 0 90
+"bhop" -320 2048 112 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -744 2112 112 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -904 2160 112 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -472 1976 120 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -592 2104 120 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -400 1832 128 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -400 2416 128 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -536 2448 144 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -624 2512 144 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -336 2544 232 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -240 1088 152 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -176 1232 160 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -240 1368 168 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -136 1440 176 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -208 672 144 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"window" -496 2544 232 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 8 1480 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -240 2520 216 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"block" 912 1208 72 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1368 888 224 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 160 1528 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 960 136 320 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 272 1472 208 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 440 1496 224 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"window" -264 2096 240 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -344 2632 296 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"tink" 976 224 216 "COmpli <3     T! CS" "tiny" "1" "1.0" "" "" "" 0 0
+"block" 1280 2296 256 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1704 864 168 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 728 936 152 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 16 1600 280 "DenisS*     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"bhop" 944 864 176 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1808 560 128 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 1016 768 192 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1544 2160 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1240 2704 256 "Compli <3 nachjto     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"speed" -248 2136 -120 "// Leox     T! CS" "norm" "1100" "0.0" "1" "" "" 0 0
+"block" 968 1208 8 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"fatalis" -272 1688 192 "// Leox     T! CS" "tiny" "125" "1.0" "" "" "" 90 0
+"speed" 1448 2192 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 632 2144 120 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -408 2008 184 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1456 1488 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -376 576 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 1024 664 192 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1032 560 200 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1416 1016 224 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1336 424 200 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1448 1328 216 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 1472 1784 216 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1024 448 200 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1120 656 232 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 1120 496 232 "COmpli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"speed" 1440 1160 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"block" 968 424 280 "COmpli <3     T! CS" "tiny" "" "" "" "" "" 90 90
+"window" -1728 2856 200 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 984 2208 144 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1088 2136 152 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1208 2136 168 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1304 2192 176 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1144 2576 72 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -1744 2408 272 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 440 1544 264 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"window" 440 1456 264 "COmpli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"bhop" 1432 2088 176 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1648 2040 192 "COmpli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1120 336 232 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"block" 968 704 280 "Compli <3     T! CS" "tiny" "" "" "" "" "" 90 90
+"window" -608 2056 296 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2088 2096 248 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -2088 2224 248 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"boost" 32 1568 136 "wckdsck     T! CS" "norm" "0" "" "" "" "" 0 0
+"block" -296 2296 -80 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0

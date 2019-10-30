@@ -1,0 +1,193 @@
+"ice" 80 624 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"fall" 2320 1960 -272 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"bhop" 600 1656 200 "NoT mE'     T! CS.notmeland" "tiny" "" "" "" "" "" 0 0
+"ice" -704 856 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 2000 1320 88 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"ice" -160 1568 192 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"boost" -416 2152 -72 "aLeee'     T! CS.ar" "tiny" "500.0" "" "" "" "" 0 0
+"ice" -2272 2136 56 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2192 2328 80 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -1544 1328 192 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 0 90
+"bhop" 136 288 272 "Berserk3r     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"block" 2600 1752 -40 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"bhop" 664 792 184 "Berserk3r     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" 2784 944 184 "NOT ME'     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"block" -2688 1904 16 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" 632 640 216 "Berserk3r     T! CS.ar" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 1368 1360 160 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 448 544 216 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1256 1456 168 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -120 232 248 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -2696 288 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" -2072 376 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" -2072 224 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" -1928 56 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"bhop" -400 1248 -80 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" 472 1632 152 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 0 90
+"ice" 2736 1288 240 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 216 32 208 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 2728 1696 48 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2624 552 176 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -608 672 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -312 600 264 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1088 1000 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -480 1168 -64 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -224 1280 -72 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1080 2104 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"boost" 944 1992 224 "NoT mE'     T! CS.notmeland" "tiny" "200" "" "" "" "" 0 0
+"tink" 328 288 272 "Berserk3r     T! CS.ar" "big" "2.0" "1.0" "" "" "" 0 90
+"window" 736 720 352 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" 736 568 352 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"bhop" 1096 1536 168 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 248 616 200 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 976 1448 168 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -80 504 200 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -1536 976 192 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 0 90
+"bhop" -232 320 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -272 472 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 608 1488 160 "NoT mE'     T! CS.notmeland" "tiny" "" "" "" "" "" 0 0
+"bhop" -248 1744 200 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -8 288 272 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"boost" -2688 144 48 "Mystical ;     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 352 -112 216 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 1488 1888 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"speed" -120 1328 -296 "Berserk3r     T! CS.ar" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" -384 648 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -392 184 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -784 672 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"boost" 1200 1536 88 "NoT mE'     T! CS.notmeland" "norm" "0" "" "" "" "" 0 0
+"bhop" -920 888 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 384 200 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 904 1648 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -88 24 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"boost" -2520 2528 32 "Mystical ;     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 1104 1920 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 1040 1752 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2664 1360 72 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1208 1752 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 792 1448 168 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2624 728 160 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1384 1760 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 624 432 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 520 304 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 632 152 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 488 56 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" 2200 2504 -104 "NoT mE'     T! CS.notmeland" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2680 1496 72 "Mystical ;     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1256 1928 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -264 16 184 "Berserk3r     T! CS.ar" "norm" "300" "" "" "" "" 0 0
+"bhop" 56 -96 200 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1232 2104 224 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -2320 2440 184 "Mystical ;     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -424 344 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" 1448 2104 232 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2656 1208 80 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 480 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 2552 1472 128 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -312 456 264 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 90 90
+"bhop" 2616 1632 152 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2776 1648 176 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -312 288 264 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 90 90
+"window" 1384 2008 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"window" 1080 2008 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2664 1048 80 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1344 1848 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"window" 1184 1848 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"window" 1032 1848 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"bhop" 2928 1608 192 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" 1240 2008 256 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 90 0
+"bhop" 2928 1344 232 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" -2696 -80 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" -2696 -240 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"bhop" 2864 1656 72 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" 1488 2008 288 "NoT mE'     T! CS.notmeland" "norm" "0" "" "" "" "" 90 90
+"ice" 2936 1536 96 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"tink" 1520 2104 272 "NoT mE'     T! CS.notmeland" "norm" "2.0" "1.0" "" "" "" 90 0
+"fatalis" -2472 2152 104 "Mystical ;     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"window" -2608 -312 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 0
+"ice" 280 2048 -144 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -2072 536 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"tink" 2456 1456 280 "NoT mE'     T! CS.notmeland" "tiny" "2.0" "1.0" "" "" "" 90 0
+"ice" -2280 2272 192 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2000 1488 64 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2384 1552 176 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2368 2080 176 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -456 1384 -40 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -2376 1888 176 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 632 -408 296 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 0 90
+"bhop" -72 1224 -80 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 2016 1144 120 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"ice" 168 1496 -128 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"fatalis" -2128 1232 104 "Mystical ;     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"tink" -2608 -248 320 "Mystical ;     T! CS" "big" "2.0" "1.0" "" "" "" 0 90
+"bhop" -360 1464 184 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 144 1640 120 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 104 1296 184 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"fatalis" -2160 1032 136 "Mystical ;     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"ice" 2176 1064 136 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -152 1920 208 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 2368 1064 144 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2384 1712 176 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2576 992 168 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -440 1712 -40 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -160 1216 184 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" 280 2256 -152 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 0 0
+"boost" 32 2280 -264 "aLeee'     T! CS.ar" "tiny" "400" "" "" "" "" 0 0
+"boost" 2376 2448 -208 "NoT mE'     T! CS.notmeland" "tiny" "430" "" "" "" "" 0 0
+"bhop" 2072 2152 -80 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2096 2312 -96 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2088 1992 -64 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2168 1864 -48 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 88 1200 -96 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -2184 304 232 "Mystical ;     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -2072 696 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"bhop" -2152 -16 272 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2296 1280 144 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" 2424 1864 176 "NoT mE'     T! CS.notmeland" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 2312 1872 -24 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2392 1976 -8 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"window" 408 288 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"window" 2392 2128 8 "NoT mE'     T! CS.notmeland" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2336 1144 160 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2216 672 232 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2392 2264 24 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2328 2424 32 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 2112 2328 104 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" -2288 848 208 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2200 2488 56 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 280 1816 -144 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 2128 2176 128 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"fatalis" 312 -320 240 "Berserk3r     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" 2224 2048 152 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 168 1336 -104 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 -152 304 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2280 -96 288 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -472 1312 176 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 0 0
+"ice" -2360 976 184 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 2376 1912 168 "NoT mE'     T! CS.notmeland" "big" "128.0" "" "" "" "" 0 90
+"fatalis" -1008 1184 232 "Berserk3r     T! CS.ar" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" -1216 880 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -1352 992 192 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"fatalis" -1752 1096 232 "Berserk3r     T! CS.ar" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" -416 1960 -80 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"fatalis" -1520 688 232 "Berserk3r     T! CS.ar" "norm" "125.0" "1.0" "" "" "" 0 0
+"window" -576 1968 96 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 168 1680 -136 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -1992 152 320 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 0
+"window" -2448 -312 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 0
+"window" -2296 -312 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 0
+"window" -1928 -104 328 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"ice" -2440 1984 32 "Mystical ;     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 736 424 352 "Berserk3r     T! CS.ar" "big" "0" "" "" "" "" 90 90
+"fatalis" 720 192 232 "Berserk3r     T! CS.ar" "norm" "125.0" "1.0" "" "" "" 0 0
+"window" -2696 144 320 "Mystical ;     T! CS" "big" "0" "" "" "" "" 90 90
+"boost" 3032 1184 -32 "NoT mE'     T! CS.notmeland" "tiny" "500.0" "" "" "" "" 0 0
+"fatalis" -1976 -152 232 "NoT mE'     T! CS.notmeland" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" 152 1800 96 "aLeee'     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 144 1496 144 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" -136 2200 208 "aLeee'     T! CS.ar" "big" "128.0" "" "" "" "" 0 90
+"ice" -384 1544 -40 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" 312 1968 96 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 90 0
+"speed" -1568 2088 24 "Berserk3r     T! CS.ar" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" 1416 1424 24 "Berserk3r     T! CS.ar" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" 568 704 24 "Berserk3r     T! CS.ar" "norm" "1200.0" "0.0" "1" "" "" 0 0

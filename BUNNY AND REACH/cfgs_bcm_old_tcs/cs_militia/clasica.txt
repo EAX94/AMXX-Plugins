@@ -1,0 +1,158 @@
+"fatalis" 1712 536 -312 "aLeee'     T! CS.ar" "tiny" "125.0" "1.0" "" "" "" 90 90
+"fatalis" 1808 536 -312 "aLeee'     T! CS.ar" "tiny" "125.0" "1.0" "" "" "" 90 90
+"tink" 272 -2208 272 ".alan1     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" 200 -896 168 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1112 -8 328 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 392 -1448 -112 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 360 -1376 -88 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"boost" 176 -680 -40 "wckdsck     T! CS" "big" "1" "" "" "" "" 0 90
+"bhop" 792 -2544 16 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1056 -592 248 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -416 -2520 -32 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 128 -896 96 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 744 -2712 256 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"ice" 616 -2600 272 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"ice" -48 -528 40 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1240 -568 248 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1472 -720 320 "Berserk3r     T! CS" "norm" "" "" "" "" "" 90 0
+"bhop" 624 -2336 320 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 16 -168 360 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 288 400 368 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -104 -112 352 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 536 392 368 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 416 400 368 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -208 96 336 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 144 200 376 "Ollor A Porro Ayudante" "tiny" "" "" "" "" "" 0 0
+"bhop" 1296 1296 304 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -184 224 336 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"tele" 656 -2256 -40 "Complicated <3" "other" "ct" "" "" "" "" 0 0
+"bhop" 720 1464 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -112 -848 112 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 576 840 144 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 696 416 368 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1288 -936 168 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -240 368 344 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"window" -584 -1720 -64 "AyudaTinga | Sherlock" "big" "0" "" "" "" "" 90 90
+"bhop" -312 520 352 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"ice" 120 -496 16 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -368 632 344 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 952 56 328 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 232 752 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 512 1472 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -584 -1720 88 "AyudaTinga | Sherlock" "big" "0" "" "" "" "" 90 90
+"tink" 384 728 176 ";ShakeE!" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" -584 -1720 240 "AyudaTinga | Sherlock" "big" "0" "" "" "" "" 90 90
+"bhop" 440 1584 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 984 -128 -152 "AyudaTinga | Sherlock" "tiny" "" "" "" "" "" 0 0
+"ice" 1224 80 -64 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"window" 704 -2160 352 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 856 -1056 144 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 96 760 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 152 80 376 "Ollor A Porro Ayudante" "tiny" "" "" "" "" "" 0 0
+"block" -80 880 152 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 0 -1648 80 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -416 -2304 32 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"fatalis" 1760 536 -312 "DenisS*     T! CS" "norm" "150" "1.0" "" "" "" 90 90
+"block" -424 -2184 40 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 864 -2328 184 "kzR0x~     T! CS" "norm" "200" "" "" "" "" 0 0
+"block" -192 -656 64 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1176 440 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 160 -144 376 "kzR0x~     T! CS" "big" "200" "" "" "" "" 0 90
+"block" 272 1544 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 816 -16 336 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 600 -24 344 "Compli <3     T! CS" "big" "300" "" "" "" "" 0 90
+"window" 112 392 376 "kzR0x~     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" 616 1560 288 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 832 1576 296 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 952 1472 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1112 1520 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 592 -632 8 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 536 -520 24 "kzR0x~     T! CS" "big" "128.0" "" "" "" "" 90 90
+"ice" 656 -448 -8 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1296 800 320 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1296 968 320 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 40 -872 128 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -328 -2632 -40 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -2408 0 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -176 -1368 -40 "kzR0x~     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" 880 912 360 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 904 768 360 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 824 616 360 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1232 664 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1328 528 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -360 -2040 80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -208 -2056 96 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -152 -2168 232 "DenisS*     T! CS" "norm" "200" "" "" "" "" 0 0
+"ice" 1240 288 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1256 16 304 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" 280 -536 8 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -88 -2168 232 "DenisS*     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -96 -2336 224 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -72 -2480 240 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 160 -2432 264 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"block" 248 1624 -272 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -32 -2120 104 "Compli <3     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"fall" 624 1344 -152 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -112 -1640 64 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 216 -1520 96 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 192 -1456 -104 "kzR0x~     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 544 768 144 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 480 744 144 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 480 -1416 112 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 624 -2624 56 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 552 -1528 112 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 832 -1648 112 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1144 -984 160 "kzR0x~     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" 664 -1672 112 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 992 -1560 120 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1200 -1528 128 "kzR0x~     T! CS" "big" "200" "" "" "" "" 0 90
+"window" 1544 -1528 128 "kzR0x~     T! CS" "big" "200" "" "" "" "" 0 90
+"tink" 1600 -1472 136 "kzR0x~     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"speed" 1568 -2432 -152 "kzR0x~     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"tink" 312 752 192 "Compli <3     T! CS" "norm" "2.0" "1.0" "" "" "" 0 0
+"ice" 48 -2496 248 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 424 -1032 136 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 568 -1040 136 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1288 1136 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 696 -1056 136 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1432 -856 192 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1008 -1024 152 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 568 872 80 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 264 -1376 -80 "kzR0x~     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -248 -1600 48 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 128 -1624 88 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1368 -592 232 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 336 -1416 112 "kzR0x~     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -352 -1520 24 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 -1392 0 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 840 -2688 24 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -72 -1576 -40 "kzR0x~     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 152 -2248 336 "Compli <3 Fan nachjto     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 288 -2424 336 "Compli <3 Fan nachjto     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" 1280 1472 312 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 616 -2280 -88 "Santi  Ayudante" "tiny" "" "" "" "" "" 0 0
+"window" 408 -600 72 "Ollor A Porro Ayudante" "big" "128.0" "" "" "" "" 90 90
+"bhop" 424 736 152 "Compli <3 Buitre ON.     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 744 -2416 -8 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"window" 216 -2248 264 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 0 90
+"block" 696 -2744 32 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"tele" 312 232 -120 "wckdsck     T! CS" "other" "" "ct" "" "" "" 0 0
+"bhop" 600 -2448 288 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"fall" 256 -2368 -152 "Santi  Ayudante" "big" "" "" "" "" "" 0 90
+"bhop" -176 -16 352 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"boost" -112 928 104 "Complicated <3" "tiny" "500.0" "" "" "" "" 0 0
+"ice" -40 760 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" 528 -768 48 "Ollor A Porro Ayudante" "big" "0" "" "" "" "" 90 0
+"bhop" 464 -544 8 "Ollor A Porro Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 584 -2368 112 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"window" 728 1080 352 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 1120 440 -8 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 0 90
+"bhop" 544 -2496 88 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 632 -2240 128 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 760 -2216 152 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"boost" 248 1512 136 ";ShakeE!" "tiny" "400" "" "" "" "" 0 0
+"bhop" 880 -2488 208 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 864 -2616 232 "Santi  Ayudante" "norm" "" "" "" "" "" 0 0
+"bhop" 1432 -720 208 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"window" 584 688 -96 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"boost" 888 -464 -104 "s4nt0^     t! cs.-" "tiny" "350" "" "" "" "" 0 0

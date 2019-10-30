@@ -1,0 +1,190 @@
+"window" 1872 -2192 -160 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"fatalis" 568 -1152 -640 "Tusa.-     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"window" 208 -880 -24 "aLeee'     T! CS.ar" "norm" "128.0" "" "" "" "" 90 90
+"window" -1768 -944 -176 "Gasper     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2080 -1064 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1880 -1136 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 -576 -96 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 592 -2352 -8 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"fatalis" 704 -2224 -264 "Compli <3     T! CS" "big" "125" "1.0" "" "" "" 0 90
+"fatalis" 568 -2224 -264 "Compli <3     T! CS" "big" "125" "1.0" "" "" "" 0 90
+"tele" 760 928 -240 "Compli <3     T! CS" "other" "" "comp" "" "" "" 0 0
+"tele" 736 688 -192 "Compli <3     T! CS" "other" "comp" "" "" "" "" 0 0
+"speed" 592 960 -280 "DenisS*     T! CS" "tiny" "700" "0.0" "1" "" "" 0 0
+"ice" 1112 -2384 -200 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 760 680 -240 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"fatalis" 392 -1000 -608 "s4nt0^     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"block" -1296 -1224 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1280 -288 -88 ".alan1     T! CS" "big" "128.0" "" "" "" "" 90 0
+"speed" -1864 -1112 -408 "Compli <3     T! CS" "norm" "1600" "0.0" "1" "" "" 0 0
+"fatalis" 344 -1304 -256 "-aln'" "tiny" "125" "1.0" "" "" "" 0 0
+"bhop" 672 -736 -608 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" -1760 -1016 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1656 -1728 -224 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 576 -1056 -344 "- aln '" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 792 -592 -624 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" 624 -992 -584 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" 1832 -424 -96 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 432 -2152 -528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 464 -1312 -568 "- aln '" "tiny" "" "" "" "" "" 90 90
+"window" 808 648 -248 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 90
+"bhop" 400 -1624 -72 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"speed" -720 -1216 -408 "AyudaTinga | fantasy" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 512 -72 -288 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 592 -416 -304 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 744 -1784 -64 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"block" 464 -1416 -376 "- aln '" "tiny" "" "" "" "" "" 90 90
+"block" 872 -1264 -536 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"bhop" 1360 -1504 -160 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"speed" 1552 -720 -632 "ayudatinga | )rury(" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 776 -2448 -544 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"ice" 1256 -2168 -336 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 576 -864 -592 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"block" 432 -1848 -512 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1816 -1528 -144 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"fatalis" 888 -848 -600 "Gasper     T! Cs" "big" "125.0" "1.0" "" "" "" 0 90
+"bhop" 2920 -592 -120 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 -1064 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -1272 -1200 -240 "^PaJaRO ;D     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 1888 -728 -88 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 672 832 -320 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"ice" 880 288 -296 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"bhop" 1688 -1544 -152 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" 1192 -2464 -272 "- aln '" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 864 136 -288 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 496 -2448 -528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 432 -2312 -528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 584 -1136 -568 "Gasper     T! Cs" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 904 456 -304 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 800 -16 -288 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"ice" 776 -1120 -200 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 728 -1656 -56 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 1568 -1552 -168 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" 1240 -416 -48 "- aln '" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 1176 -2232 -376 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 1744 -816 -88 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"block" 816 -1320 -568 "- aln '" "tiny" "" "" "" "" "" 90 90
+"block" 824 -1872 -552 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"ice" 432 -2016 -528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 640 -2448 -536 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 568 736 -408 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"window" 704 736 -408 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"window" 936 -424 -200 "ayudatinga | HER" "norm" "0" "" "" "" "" 0 0
+"ice" 880 -1184 -536 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"boost" 912 704 -456 "ayudatinga | )rury(" "tiny" "500" "" "" "" "" 0 0
+"bhop" 464 304 -248 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 752 -1280 -192 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 1736 -1744 -168 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"bhop" 576 -1656 -56 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 704 -488 -528 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" 1304 -1360 -144 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 1424 -1640 -168 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 672 -72 -280 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"block" 392 24 -272 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 1936 -1528 -120 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 2072 -1552 -112 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 2216 -1552 -128 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"block" 2352 -1504 -136 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"boost" 480 232 -320 "ayudatinga | )rury(" "big" "0" "" "" "" "" 0 90
+"bhop" 472 144 -248 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 504 488 -256 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"window" 880 -936 -344 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"window" 888 -896 -160 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1616 -728 -88 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"block" 640 -1792 -672 "ayudatinga | name" "norm" "" "" "" "" "" 0 0
+"bhop" 1480 -616 -88 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 768 920 -368 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"bhop" 752 856 -344 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"bhop" 368 -688 -352 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 592 848 -304 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"ice" 1240 -1248 -128 "EmnL     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" 552 936 -280 "ayudatinga | )rury(" "norm" "2.0" "1.0" "" "" "" 0 0
+"bhop" 872 -880 -528 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" -464 -1288 -48 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 2216 -416 -112 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 816 -1416 -376 "- aln '" "tiny" "" "" "" "" "" 90 90
+"window" 568 -936 -344 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"window" 720 -936 -344 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"fatalis" 1088 -416 -144 "Berserk3r     T! CS x___x" "norm" "125.0" "1.0" "" "" "" 0 0
+"block" 656 -1352 -160 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"window" 888 -768 -160 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 90
+"bhop" 512 -1448 -384 "ayudatinga | )rury(" "tiny" "" "" "" "" "" 0 0
+"window" 320 -1040 -344 "- aln '" "norm" "128.0" "" "" "" "" 90 0
+"window" 1656 -2080 -224 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1696 -2256 -296 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"block" 464 -1752 -568 "- aln '" "tiny" "" "" "" "" "" 90 90
+"bhop" 384 -584 -328 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 464 -464 -312 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"block" 808 -1752 -568 "- aln '" "tiny" "" "" "" "" "" 90 90
+"bhop" 840 -2296 -544 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"ice" 832 -544 -256 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 80 -1128 -88 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"bhop" 720 -1192 -528 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"bhop" 2392 -424 -112 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2952 -584 -256 "ayudatinga | kabal" "norm" "128.0" "" "" "" "" 0 0
+"ice" 880 -1112 -536 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"ice" 736 -432 -280 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"ice" 832 -680 -232 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 856 -512 -528 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"boost" -2880 -568 -336 "ayudatinga | kabal" "tiny" "350" "" "" "" "" 0 0
+"fall" 2312 -1584 -408 "- aln '" "norm" "" "" "" "" "" 0 0
+"bhop" 840 -832 -208 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"bhop" 800 -968 -200 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"ice" 872 -1016 -536 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -2952 -712 -232 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"boost" 2240 -2136 -416 "AyudaTinga | Sherlock" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 872 -616 -528 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" -2944 -864 -224 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"block" -2960 -1032 -248 "AyudaTinga | Sherlock" "norm" "" "" "" "" "" 0 0
+"window" -1248 -1200 -216 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -328 -608 -24 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"block" -2896 -1032 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" 872 -744 -528 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" 2576 -488 -120 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2000 -416 -96 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 824 -2144 -544 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2112 -904 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" 1824 -1744 -144 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"window" 1320 -2008 -96 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"ice" 2744 -576 -120 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2376 -1024 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" 3088 -672 -120 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 112 -512 -24 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2712 -1104 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" 736 -2208 -80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1600 -2216 -376 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1104 -1592 -80 "Gasper     T! Cs" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 -2184 -264 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 584 -512 -528 "Gasper     T! Cs" "tiny" "" "" "" "" "" 0 0
+"tink" 2232 -1792 -280 "AyudaTinga | Sherlock" "norm" "5" "1.0" "" "" "" 0 0
+"bhop" -184 -520 -24 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 808 -1856 -680 "ayudatinga | kabal" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -32 -512 -24 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -2296 -864 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" -240 -1552 -56 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2552 -1200 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"ice" -464 -784 -40 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" 3272 -728 -120 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -792 -1272 -136 "AyudaTinga | fantasy" "norm" "128.0" "" "" "" "" 90 90
+"fatalis" -128 -1144 -168 "wckdsck     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"bhop" 760 -1824 -584 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"fatalis" 16 -1144 -168 "wckdsck     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"fatalis" 160 -1144 -168 "wckdsck     T! CS" "big" "125.0" "1.0" "" "" "" 0 90
+"window" 952 -384 -56 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" 952 -448 -56 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 816 -2008 -544 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" -2384 -1192 -248 "ayudatinga | kabal" "norm" "" "" "" "" "" 0 0
+"bhop" -360 -1416 -56 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -536 -1120 -48 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -528 -960 -48 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" -1248 -1040 -216 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -1464 -1144 -248 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 728 -2056 -72 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 736 -1912 -64 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"fall" 736 -2464 -256 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1200 -2176 -176 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1264 -1728 -112 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1120 -1400 -8 "Gasper     T! Cs" "big" "128.0" "" "" "" "" 90 0
+"ice" 1280 -2024 -152 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1112 -1888 -128 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -720 -1288 -16 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 90

@@ -1,0 +1,176 @@
+"bhop" -3000 -1200 -80 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2856 -1200 -56 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -1904 160 -56 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 2008 -128 -152 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2720 -1200 -40 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2288 -120 -80 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1376 -8 72 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -640 824 -376 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -704 768 -56 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1864 1056 -88 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -392 776 -56 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fall" -2952 1160 -208 "holli     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" -640 -1504 -104 "-aln te regalo amores (8)" "norm" "" "" "" "" "" 0 0
+"window" 1696 1328 -256 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1784 -8 72 "wckdsck     T! CS" "norm" "0" "" "" "" "" 90 90
+"bhop" -880 560 -80 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2144 -224 -120 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 856 560 -168 "DenisS*" "norm" "" "" "" "" "" 0 0
+"window" -872 760 -56 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1864 1136 -64 "holli     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2024 1136 -56 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2192 1128 -40 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2336 1216 -72 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -656 808 -232 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -264 704 -120 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 2424 -128 -72 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 952 952 -152 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -16 -1480 -152 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 976 776 -408 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -776 744 -384 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -496 816 -256 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1856 856 -136 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1856 960 -112 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1856 752 -168 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 104 -1344 -176 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1696 944 -280 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -2680 640 56 "DenisS*" "tiny" "" "" "" "" "" 0 0
+"ice" -1912 -200 -72 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"tele" 968 976 -112 "DenisS*" "other" "tp4" "" "" "" "" 0 0
+"bhop" 792 952 -144 "DenisS*" "norm" "" "" "" "" "" 0 0
+"ice" -2880 472 -216 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 536 920 -104 "DenisS*" "norm" "" "" "" "" "" 0 0
+"block" -1024 0 40 "DenisS*" "tiny" "" "" "" "" "" 0 0
+"boost" -2952 1040 -168 "holli     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"tele" 1104 56 -8 "DenisS*" "other" "tp3" "tp4" "" "" "" 0 0
+"bhop" 664 944 -128 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -2248 -392 -96 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 704 952 -440 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3216 408 -200 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1176 632 -400 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -912 -1512 -88 "-aln te regalo amores (8)" "big" "128.0" "" "" "" "" 0 90
+"window" -1024 672 -144 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" 360 880 -80 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"speed" 16 -1048 -216 "DenisS*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 1576 632 -328 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 576 960 -464 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1024 736 -144 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -1936 112 -64 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -176 -1496 -136 "-aln te regalo amores (8)" "norm" "" "" "" "" "" 0 0
+"bhop" -360 -1504 -128 "-aln te regalo amores (8)" "norm" "" "" "" "" "" 0 0
+"ice" -496 -1504 -112 "-aln te regalo amores (8)" "tiny" "" "" "" "" "" 0 0
+"bhop" -3216 296 -176 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3208 176 -160 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3096 112 -144 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2736 904 -32 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2640 -1096 -40 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1016 696 -48 "wckdsck     T! CS" "norm" "0" "" "" "" "" 90 0
+"window" 152 584 -112 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -704 -968 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -568 -1088 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 576 576 -152 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" 224 400 -80 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -896 360 -424 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 -1080 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 936 400 -168 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -896 488 -408 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -624 96 -144 "DenisS*" "norm" "" "" "" "" "" 0 0
+"boost" -2328 -608 -192 "s4nt0^     T! CS" "tiny" "450" "" "" "" "" 0 0
+"bhop" 448 544 -128 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -224 -1152 -80 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 152 -984 -64 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 384 120 -64 "DenisS*" "norm" "" "" "" "" "" 0 0
+"window" 176 -1160 -64 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 152 -800 -64 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 352 416 -104 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"fatalis" -56 376 -88 "DenisS*" "big" "125" "1.0" "" "" "" 0 90
+"ice" -88 192 -80 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -40 360 -72 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" 96 376 -72 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" 48 88 -80 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" 208 72 -72 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" 760 144 -56 "DenisS*" "norm" "" "" "" "" "" 0 0
+"window" 832 40 8 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"tink" 1696 1392 -248 "s4nt0^     T! CS" "tiny" "2" "1.0" "" "" "" 0 0
+"bhop" 8 -688 -64 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2288 -208 -96 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2320 -280 -96 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -520 -1400 -72 "wckdsck     T! CS.ARGENTINA" "big" "0" "" "" "" "" 90 0
+"bhop" 1312 608 -384 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2240 40 -88 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2088 120 -56 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2416 680 -48 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -2960 208 -144 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2776 -944 -32 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1744 -64 16 "s4nt0^     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -2856 -104 -144 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1664 784 -304 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3000 -152 -136 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3104 -256 -112 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 712 576 -160 "DenisS*" "norm" "" "" "" "" "" 0 0
+"fatalis" 952 32 -104 "DenisS*" "norm" "300" "1.0" "" "" "" 0 0
+"bhop" -3176 -376 -104 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3184 -512 -96 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3184 -656 -88 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2480 24 -56 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 1352 120 -216 "DenisS*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -784 128 -128 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -2176 576 -40 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1864 584 -48 "holli     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2008 584 -40 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -1968 -8 -80 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -3176 -816 -80 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -2560 792 -32 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"speed" -1304 -376 -216 "DenisS*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 856 904 -400 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1688 1200 -264 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1656 640 -128 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1424 704 -344 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2464 1096 -72 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 2016 408 -48 "holli     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 2168 440 -72 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2608 1184 -72 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -912 -1264 -496 "DenisS*" "tiny" "680" "" "" "" "" 0 0
+"boost" -312 936 -336 "DenisS*" "tiny" "400" "" "" "" "" 0 0
+"ice" -472 208 -168 "DenisS*" "norm" "" "" "" "" "" 0 0
+"window" 1352 304 -72 "holli     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -432 352 -192 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -888 248 -112 "DenisS*" "norm" "" "" "" "" "" 0 0
+"bhop" -920 400 -96 "DenisS*" "norm" "" "" "" "" "" 0 0
+"tele" 1976 368 0 "holli     T! CS" "other" "1" "3" "" "" "" 0 0
+"tele" 1320 344 -32 "holli     T! CS" "other" "3" "" "" "" "" 0 0
+"bhop" -416 504 -200 "DenisS*" "norm" "" "" "" "" "" 0 0
+"window" -1472 136 -120 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2720 -336 72 "DenisS*     T! CS" "norm" "0" "" "" "" "" 90 90
+"window" -1224 -8 72 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -192 -648 -48 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -376 -720 -48 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -928 -1336 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -928 -1152 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -872 -976 -88 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -48 -1152 -72 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -560 -672 -32 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -656 -784 -24 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -856 -720 -24 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -856 616 -392 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 832 648 -128 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -1784 -344 -72 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1640 -416 -80 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1488 -472 -72 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -2696 592 -312 "NoT mE'     T! CS" "tiny" "400" "" "" "" "" 0 0
+"window" 960 648 -128 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"ice" -1336 -368 -64 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2384 568 -48 "holli     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" 560 128 -56 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 1032 136 -56 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -1304 -176 -56 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 2488 176 -56 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2440 312 -56 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2320 424 -48 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1368 88 -48 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1368 -40 -40 "holli     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1368 -208 -56 "holli     T! CS" "tiny" "" "" "" "" "" 0 0
+"boost" 1312 -64 -104 "wckdsck     T! CS" "norm" "1" "" "" "" "" 0 0
+"window" 1392 -320 -48 "holli     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 144 -272 -112 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" -96 -240 -88 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0

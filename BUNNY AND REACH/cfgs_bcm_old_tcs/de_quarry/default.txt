@@ -1,0 +1,150 @@
+"window" -16 736 64 "aLeee'     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" 576 3008 216 "aLeee'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -1560 -1032 216 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 144 1200 120 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -24 1656 152 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 0 0
+"boost" -3240 -1304 272 "Garu^ D x Vida" "tiny" "350" "" "" "" "" 0 0
+"ice" -360 1536 48 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -64 1424 96 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1256 -792 224 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -232 1496 80 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -152 1680 152 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -1048 1552 168 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -992 1448 176 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"tink" 856 2504 272 "Berserk3r     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" -832 1464 176 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"window" -1904 1960 296 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 0
+"tink" 104 624 176 "Garu^ D x Vida" "tiny" "2.0" "1.0" "" "" "" 0 0
+"block" -512 -1248 288 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"fall" -2136 1072 216 "Armando Porro" "big" "" "" "" "" "" 0 90
+"bhop" -3136 -1184 352 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -2504 1416 368 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 0 90
+"bhop" 48 1320 104 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -312 -1280 240 "Armando Porro" "tiny" "" "" "" "" "" 0 0
+"bhop" 264 1024 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -696 -1040 200 "Garu^ D x Vida" "norm" "128.0" "" "" "" "" 0 0
+"ice" 296 2440 256 "-aln sin pad     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 144 888 152 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"block" 592 2024 224 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -1104 -672 208 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 144 672 168 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2928 -592 352 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" 448 2496 320 "wckdsck     T! CS" "big" "60" "" "" "" "" 90 90
+"bhop" -1080 -2408 296 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2984 -1152 344 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1416 -912 224 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 72 672 232 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -680 1464 176 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"ice" -2144 832 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -1256 256 "Armando Porro" "tiny" "" "" "" "" "" 0 0
+"bhop" -424 -1408 80 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2848 -1064 336 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2872 -944 344 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -472 1640 144 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -344 1712 152 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2920 -392 352 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2920 -296 352 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2808 -216 384 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2704 -192 408 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 216 2696 224 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -288 -1344 104 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2608 -192 424 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"block" -2472 -200 440 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -168 1616 216 "Armando Porro" "big" "128.0" "" "" "" "" 90 0
+"bhop" 744 2032 232 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"window" -32 1616 216 "Armando Porro" "big" "128.0" "" "" "" "" 90 0
+"bhop" -376 -1256 120 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -872 -1008 232 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 280 2232 248 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -504 -1248 136 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"block" -528 -1344 168 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"block" -288 -1424 200 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"ice" 280 2040 224 "Armando Porro" "tiny" "" "" "" "" "" 0 0
+"block" -528 -1408 168 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -864 -1168 240 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -744 -1304 248 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2488 1768 208 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -1448 -640 280 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"bhop" -640 -1640 256 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -640 -1464 256 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 896 2736 8 "Armando Porro" "tiny" "600" "" "" "" "" 0 0
+"bhop" 336 2568 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 464 2848 208 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"ice" 424 2712 224 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2336 1768 224 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" 432 2016 232 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 848 2104 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 856 2224 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 728 2224 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 592 2232 248 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 560 2376 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" 672 2416 240 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"block" 816 2464 264 "Armando Porro" "big" "" "" "" "" "" 0 90
+"window" 720 2104 280 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"window" 576 2104 280 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"window" 680 2312 280 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"window" 808 2560 312 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"window" 664 2560 312 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"window" 816 2312 280 "Armando Porro" "big" "60" "" "" "" "" 90 0
+"bhop" 72 2736 216 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"window" -2504 1352 432 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 90 0
+"fall" -2504 1536 136 "wckdsck     T! CS @ OnBoard" "tiny" "" "" "" "" "" 0 0
+"block" -832 1824 192 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"speed" -2368 208 200 "Garu^ D x Vida" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -32 2840 208 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -144 2920 208 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"window" -424 1808 208 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -216 2800 208 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -320 2672 208 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -424 2816 200 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -584 2792 200 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -704 2680 200 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -632 2536 192 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"window" -768 -88 208 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 0
+"bhop" -776 2448 192 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -792 2304 184 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"block" -872 2136 192 "Armando Porro" "big" "" "" "" "" "" 0 90
+"bhop" -2432 688 408 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2144 544 448 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 144 600 232 "Shakee" "big" "128.0" "" "" "" "" 90 0
+"ice" -2472 1080 368 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2464 -592 344 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2528 -752 288 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2472 -664 312 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"ice" -2168 968 280 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"tele" 896 2888 24 "Armando Porro" "other" "kk4" "" "" "" "" 0 0
+"tink" -2096 592 456 "s4nt0^     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"speed" -1064 336 8 "Garu^ D x Vida" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" -2456 880 400 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"ice" -2320 1080 320 "Armando Porro" "norm" "" "" "" "" "" 0 0
+"bhop" -2288 552 432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2448 -88 496 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 0
+"bhop" -880 -2280 296 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2360 -184 496 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"bhop" -2176 1768 240 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -1000 1392 80 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 0
+"window" -1096 1392 80 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 0
+"window" -320 -1216 240 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"block" -2688 -880 264 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -600 -1704 88 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 90
+"window" -600 -1576 88 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 90
+"window" 368 2224 304 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" -2016 1768 264 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -1856 1808 280 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 0 0
+"boost" -1872 1904 288 "wckdsck     T! CS @ OnBoard" "tiny" "350" "" "" "" "" 0 0
+"speed" -768 -1776 24 "Garu^ D x Vida" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" -816 1768 408 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 0
+"window" -2392 176 520 "DenisS*     T! CS" "big" "0" "" "" "" "" 0 90
+"window" -296 1808 208 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2480 1600 360 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2056 1904 344 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2200 1904 344 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2360 1904 352 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2488 1784 368 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -744 -1808 264 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -648 -1944 272 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -744 -2104 280 "aLeee'     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -1400 -2440 240 "aLeee'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1752 -2440 240 "aLeee'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -1232 -2408 264 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" -1808 -2384 248 "aLeee'     T! CS" "tiny" "1" "3" "" "" "" 0 0

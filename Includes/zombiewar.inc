@@ -1,0 +1,2 @@
+native zp_register_zombie_class(const name[], const model[], const clawmodel[], hp, speed, Float:gravity, Float:damage, level)
+native zp_register_human_class(const name[], const model[], hp, speed, Float:gravity, Float:damage, level)

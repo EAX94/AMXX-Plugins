@@ -1,0 +1,176 @@
+"fall" -216 616 224 "buddha'" "norm" "" "" "" "" "" 0 0
+"window" 672 48 16 "Complicated <3" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 560 64 48 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 456 72 64 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"fatalis" -8 2048 8 "- aln '" "norm" "-9999999" "1.0" "" "" "" 0 0
+"bhop" 336 56 72 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 224 24 80 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 128 48 96 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 24 32 112 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -96 24 120 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" 312 2368 336 "buddha'" "big" "" "" "" "" "" 0 90
+"bhop" -216 24 128 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 296 1416 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" 288 672 48 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 320 1280 200 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 464 920 120 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 224 1176 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 128 1040 184 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" -328 16 136 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -88 304 320 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -8 2408 352 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -8 2296 352 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" 48 624 640 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 32 744 640 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 64 1040 648 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -48 1200 600 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 56 1096 632 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 48 1288 584 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -56 1368 560 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -32 1512 536 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -8 2192 352 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -176 728 208 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 8 2072 336 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -336 2184 352 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -528 40 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 8 1952 336 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -624 48 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -744 16 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -24 1840 352 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -840 24 192 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -936 48 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -176 1848 328 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"ice" -432 24 144 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -320 1912 328 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -288 2048 328 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -1040 64 216 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1136 72 224 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -312 2328 320 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"bhop" -1224 96 232 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1416 96 256 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1312 64 224 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 384 464 624 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 224 392 640 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 112 496 640 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -1400 296 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"fall" -256 2712 328 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" -376 2440 328 "Garu^ HORS" "norm" "" "" "" "" "" 0 0
+"ice" -1496 208 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"fall" -424 2568 336 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" -1280 304 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1176 296 272 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -40 1696 520 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -1080 304 272 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -968 312 272 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -864 328 272 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -768 328 280 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -672 336 280 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -568 344 280 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -472 328 296 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -376 304 304 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -280 304 304 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 280 792 88 "buddha'" "norm" "" "" "" "" "" 0 0
+"block" -712 1376 520 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -72 840 192 "buddha'" "norm" "" "" "" "" "" 0 0
+"window" -696 280 -48 "Complicated <3" "norm" "128.0" "" "" "" "" 0 0
+"boost" 72 920 584 "KU|used----------hor" "norm" "500.0" "" "" "" "" 0 0
+"bhop" -184 304 312 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 48 312 320 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" 144 320 320 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 248 320 328 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 352 336 336 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 464 368 344 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 568 360 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 616 224 352 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 624 112 360 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 520 48 368 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 392 40 376 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 256 56 376 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 152 40 384 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -176 32 408 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -184 2344 376 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -112 2232 360 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" 40 16 392 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -280 32 408 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -392 40 416 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -512 24 416 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -624 40 424 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -120 2464 384 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -176 2616 336 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -144 2104 360 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"bhop" -72 32 400 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -720 40 432 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -832 32 432 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -944 48 440 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1048 56 448 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1160 64 456 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1264 64 464 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1384 24 464 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1496 80 464 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1520 192 464 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1416 256 472 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 256 472 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1232 264 480 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1128 264 488 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1016 248 496 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -888 264 496 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -776 272 496 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -640 296 496 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -536 288 504 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -432 288 504 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -320 304 504 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -208 320 504 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -104 304 512 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -8 320 512 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 96 320 520 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 208 344 520 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 320 352 520 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" 200 2040 512 "Complicated <3" "big" "128.0" "" "" "" "" 0 90
+"window" 112 2032 496 "Complicated <3" "big" "128.0" "" "" "" "" 0 90
+"bhop" 408 336 528 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 520 344 528 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 360 872 112 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 664 936 144 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 560 872 136 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 672 1056 144 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -568 1400 536 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"window" -256 2392 424 "KU|used----------hor" "big" "128.0" "" "" "" "" 90 90
+"window" -64 2104 424 "KU|used----------hor" "big" "128.0" "" "" "" "" 90 90
+"window" -248 2264 424 "KU|used----------hor" "big" "128.0" "" "" "" "" 90 90
+"window" -232 2128 424 "KU|used----------hor" "big" "128.0" "" "" "" "" 90 90
+"window" -216 2032 424 "KU|used----------hor" "big" "128.0" "" "" "" "" 90 90
+"window" -160 1608 32 "Complicated <3" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -456 1496 544 "KU|used----------hor" "norm" "" "" "" "" "" 0 0
+"boost" -368 1648 544 "Complicated <3" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 640 1176 152 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" -16 1016 208 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 432 1504 176 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 536 1416 168 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 600 1304 160 "buddha'" "norm" "" "" "" "" "" 0 0
+"fall" 360 392 672 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"fatalis" -312 2192 512 "Complicated <3" "big" "-1000000" "1.0" "" "" "" 0 90
+"fall" 632 352 528 "buddha'" "norm" "" "" "" "" "" 0 0
+"bhop" 192 2480 352 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" 80 2520 352 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -352 2664 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -408 2768 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -368 2872 928 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -344 2312 928 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -352 2448 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -408 2552 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -104 2312 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -240 2384 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" 0 2392 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -32 2528 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" 16 2656 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" 0 2784 936 "KU|used----------" "tiny" "" "" "" "" "" 0 0
+"fall" 0 2880 936 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -752 2512 384 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -880 2416 368 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"window" -264 2968 896 "KU|used----------" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1008 2448 368 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"fall" -800 2712 400 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -768 2616 392 "KU|used----------" "tiny" "" "" "" "" "" 0 0
+"block" -728 2368 848 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -920 2560 664 "KU|used----------" "norm" "" "" "" "" "" 0 0
+"bhop" -832 2464 672 "KU|used----------" "norm" "" "" "" "" "" 0 0

@@ -1,0 +1,158 @@
+"block" 1216 -1384 48 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1072 -1280 320 "s4nt0^     t! cs.-" "big" "128.0" "" "" "" "" 0 90
+"window" 496 -1192 480 "Berserk3r     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -1040 -1144 216 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1144 -1128 232 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"ice" -1248 -1120 256 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"window" 1400 -1584 416 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"tink" -1016 -1240 328 "s4nt0^     t! cs.-" "tiny" "2.0" "1.0" "" "" "" 0 0
+"fall" 1240 -1592 24 "NoT mE'     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" -3352 -1352 368 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" 1584 -840 72 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1352 -696 312 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 8 -744 424 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 456 -224 392 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -3344 -1216 336 "Tusa.-     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -3288 -400 320 "Tusa.-     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"fall" 432 -440 8 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1408 -520 312 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1512 -1128 216 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -184 -1040 336 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 232 -1200 352 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1376 -1288 320 "s4nt0^     t! cs.-" "norm" "" "" "" "" "" 0 0
+"bhop" -1040 -1352 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1584 -616 656 "s4nt0^     t! cs.-" "big" "128.0" "" "" "" "" 90 0
+"window" 1584 -968 656 "s4nt0^     t! cs.-" "big" "128.0" "" "" "" "" 90 0
+"bhop" 904 -1208 392 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2280 -1512 224 "s4nt0^     t! cs.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2792 -768 264 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1240 -728 496 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"bhop" 112 -1096 344 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 832 2504 352 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 640 -1560 376 "NoT mE'     T! CS" "tiny" "300" "" "" "" "" 0 0
+"window" 648 1400 216 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" 1512 -632 296 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1168 -1216 144 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1168 1808 160 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 176 576 8 "Berserk3r     T! CS" "tiny" "450" "" "" "" "" 0 0
+"bhop" 384 584 120 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1128 -1552 408 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 568 584 120 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 152 1528 96 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1216 -776 336 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1304 -1232 168 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1456 -1232 192 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2000 -1168 128 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1032 2488 368 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -2792 -1136 248 "Tusa.-     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -128 712 120 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1016 -1088 376 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 296 -312 400 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1280 -464 328 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1144 -448 344 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1008 -376 360 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2400 -1760 472 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 864 -368 376 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 648 -352 384 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 176 -464 408 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 496 2504 288 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -3312 -376 328 "Tusa.-     T! CS" "tiny" "2" "1.0" "" "" "" 0 0
+"bhop" 1024 2320 368 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1328 -104 200 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 120 -624 416 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1088 -944 360 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 384 2504 272 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -48 -1168 344 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1184 1656 176 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1984 -1328 152 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2096 -1456 176 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1232 -1352 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3288 -1120 304 "Tusa.-     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 656 2504 328 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 152 1664 120 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 136 1800 168 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2784 -944 256 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 360 1760 392 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 704 1880 384 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" 272 2544 496 "Berserk3r     T! CS" "tiny" "3.0" "1.0" "" "" "" 0 0
+"bhop" 544 -880 440 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 480 1608 392 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 640 1456 392 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1216 -80 296 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 1024 2048 368 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 856 1928 376 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 824 1360 376 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 544 1824 384 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2632 -1816 472 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2920 -1080 272 "Tusa.-     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" 1424 1272 240 "Berserk3r     T! CS" "norm" "2.0" "1.0" "" "" "" 0 0
+"bhop" 1200 1496 200 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3056 -1056 280 "Tusa.-     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -3184 -1056 288 "Tusa.-     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1384 -1144 288 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"window" -1496 -1288 320 "s4nt0^     t! cs.-" "big" "128.0" "" "" "" "" 0 90
+"boost" 1080 1952 8 "Berserk3r     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 1344 1432 224 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -3224 -928 8 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -1320 48 216 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 768 -1264 408 "NoT mE'     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 640 -1184 416 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 560 -1040 432 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 632 -760 456 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2920 -664 272 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3064 -576 288 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 784 -768 472 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -3208 -528 304 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 992 -768 480 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fall" 912 -816 8 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 248 1904 400 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 240 2032 432 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 808 -1584 392 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" 472 1800 8 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1032 1328 368 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 264 2184 456 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 256 2320 472 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 216 2488 488 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1376 -784 520 "s4nt0^     t! cs.-" "norm" "" "" "" "" "" 0 0
+"bhop" -3360 -1472 392 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1568 -1000 232 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -3344 -1608 416 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" -288 -752 328 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2392 -1408 472 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 976 -1664 408 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1232 136 248 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1128 8 264 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -1824 -328 216 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" -1360 -632 40 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" -1408 -88 296 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -3272 -1704 440 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -3176 -1800 456 "NoT mE'     T! CS" "tiny" "" "" "" "" "" 0 0
+"fall" -2384 -1496 8 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -1432 -64 304 "Berserk3r     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 736 584 120 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 720 -1360 440 "Berserk3r     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" 896 592 120 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1040 640 128 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 368 -1280 352 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1048 800 136 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 944 944 136 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 800 872 136 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 688 960 136 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2416 -1400 224 "s4nt0^     t! cs.-" "norm" "" "" "" "" "" 0 0
+"bhop" -2544 -1296 224 "s4nt0^     t! cs.-" "norm" "" "" "" "" "" 0 0
+"window" -2336 -1704 320 "s4nt0^     t! cs.-" "big" "130" "" "" "" "" 90 0
+"window" 512 968 136 "Berserk3r     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2688 -1216 240 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"window" -2472 -1704 320 "s4nt0^     t! cs.-" "big" "130" "" "" "" "" 90 0
+"block" 136 1912 208 "Berserk3r     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1528 -808 528 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -3008 -1888 472 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2832 -1776 472 "Tusa.-     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 448 -1312 8 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" 376 200 8 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 472 -1432 360 "NoT mE'     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -640 936 40 "NoT mE'     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"block" 216 1376 32 "s4nt0^     t! cs.-" "tiny" "" "" "" "" "" 0 0
+"bhop" -960 -1232 184 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -1464 -1464 40 "Berserk3r     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"fatalis" 1496 -72 624 "Berserk3r     T! CS x___x" "norm" "125.0" "1.0" "" "" "" 0 0

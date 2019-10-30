@@ -1,0 +1,255 @@
+"block" 752 8 32 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"block" 1688 -160 88 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 48 1312 336 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -1928 2016 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1904 1856 152 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" 336 96 64 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"bhop" 968 1032 128 "Gasper s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1896 1680 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"block" -1168 3416 368 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"fall" -656 2192 -512 "Gasper S2 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"block" -1976 3096 320 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"ice" -1776 1544 152 "Gasper s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"fall" -672 2384 -512 "Gasper S2 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"block" 2608 -736 144 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 90 0
+"bhop" -1624 2392 -192 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"block" 600 72 304 "Garu^" "norm" "" "" "" "" "" 0 0
+"ice" 2840 -1400 104 "Shoket <3 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"block" 2952 -1376 112 "Shoket <3 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2392 2384 176 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" 2096 248 16 "KU|used---------playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" -2184 2664 296 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1128 3416 144 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 248 1400 -584 "[TaringaCS] ~  pLAYERSUELO" "big" "128.0" "" "" "" "" 90 0
+"ice" 1032 528 256 "-HNS- K7 s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" -1944 2176 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tele" -1512 2720 -480 "iP; alnSGt0hh.-" "other" "ctaln" "" "" "" "" 0 0
+"bhop" -624 2344 152 "Garu^" "norm" "" "" "" "" "" 0 0
+"bhop" -624 2680 184 "Garu^" "norm" "" "" "" "" "" 0 0
+"speed" 1960 440 -64 "pepon s2 pLAYERSUELO" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"block" 2496 -1344 96 "Shoket <3 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"bhop" 80 688 320 "-HNS- K7 s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 3328 160 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 320 936 40 "[GeR] s2 playersuelo" "big" "0" "" "" "" "" 90 90
+"bhop" -1648 2872 184 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1592 2976 168 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1728 2760 184 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1400 3208 168 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1488 3096 168 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" 256 712 248 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" 1072 696 256 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"window" 840 1328 112 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 90 0
+"bhop" 2632 -1400 104 "Shoket <3 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"tele" -1968 2408 176 "Gasper S2 pLAYERSUELO" "other" "gs" "gs0" "" "" "" 0 0
+"tele" -2264 2608 144 "Gasper S2 pLAYERSUELO" "other" "gs0" "" "" "" "" 0 0
+"bhop" 2736 -1400 104 "Shoket <3 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"speed" -872 608 0 "[GeR] s2 playersuelo" "norm" "3000" "0.0" "1" "" "" 0 0
+"window" 280 1464 96 "Gasper S2 pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"ice" -104 840 264 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"ice" 448 320 168 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 280 1464 32 "Gasper S2 pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -2304 2792 272 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 2536 200 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 2688 224 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"tele" -1984 2136 -456 "Shoket <3 pLAYERSUELO" "other" "jajaja" "" "" "" "" 0 0
+"block" -2416 2792 240 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" 1120 384 272 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"window" 304 944 192 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 90 0
+"ice" -608 2168 128 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -2576 2520 384 "Garu^" "norm" "" "" "" "" "" 0 0
+"tele" 3336 -24 160 "iP; alnSGt0hh.-" "other" "ttaln" "ctaln" "" "" "" 0 0
+"bhop" -672 2824 208 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -752 3368 296 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 832 1088 336 "[GeR] s2 playersuelo" "big" "128.0" "" "" "" "" 90 90
+"ice" -720 3112 256 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2240 2440 352 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2184 2544 320 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2216 2760 280 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"block" -696 2960 224 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"block" -2344 2400 360 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 768 1024 336 "[GeR] s2 playersuelo" "big" "128.0" "" "" "" "" 90 0
+"block" -1592 2776 -208 "Melcho s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -1312 3408 360 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -896 3440 360 "pepon s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"bhop" 728 1336 344 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -1456 3424 344 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"block" -1504 2096 -192 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"bhop" -1640 3408 328 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -1760 3368 336 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -1928 3344 320 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -1960 3216 312 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"ice" -1592 2200 -208 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"ice" -1600 2560 -200 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"block" 384 0 440 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"bhop" 1120 552 160 "pLAYERSUELO -HNS- K7" "norm" "" "" "" "" "" 0 0
+"block" 160 1400 32 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" 160 1400 88 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" 3472 -432 40 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 90 0
+"tele" 2112 416 8 "KU|used---------playersuelo" "other" "ppp" "php" "" "" "" 0 0
+"tink" -2216 2896 136 "pLAYERSUELO -HNS- K7" "tiny" "2" "1.0" "" "" "" 0 0
+"boost" -1832 2776 -512 "Melcho s2 pLAYERSUELO" "norm" "1010" "" "" "" "" 0 0
+"delay" 2680 -152 120 "[GeR] s2 playersuelo" "norm" "1.0" "" "" "" "" 0 0
+"bhop" -2472 2456 368 "Garu^" "norm" "" "" "" "" "" 0 0
+"window" 160 1400 -552 "[TaringaCS] ~  pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -312 384 48 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"delay" 2848 -152 96 "[GeR] s2 playersuelo" "norm" "1.0" "" "" "" "" 0 0
+"block" 2624 -704 88 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"tele" -2352 2336 416 "Shoket <3 pLAYERSUELO" "other" "jaja" "jajaja" "" "" "" 0 0
+"block" 2904 -152 88 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"window" 176 936 376 "Kid HOLA pLAYERSUELO" "norm" "128.0" "" "" "" "" 0 0
+"block" 152 1184 0 "Gasper S2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"block" 224 1400 24 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" 224 1400 80 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" -1696 2096 -192 "Melcho s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"delay" 2736 -152 112 "[GeR] s2 playersuelo" "norm" "1.0" "" "" "" "" 0 0
+"bhop" -184 368 72 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"block" 288 1400 88 "Gasper S2 pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"window" 88 904 504 "[GeR] s2 playersuelo" "big" "128.0" "" "" "" "" 0 90
+"window" 168 880 184 "[GeR] s2 playersuelo" "big" "0" "" "" "" "" 90 0
+"delay" 2792 -152 104 "[GeR] s2 playersuelo" "norm" "1.0" "" "" "" "" 0 0
+"block" 1664 -768 -384 "-HNS- K7 s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"speed" 3384 -72 32 "Kid HOLA pLAYERSUELO" "tiny" "1200.0" "0.0" "1" "" "" 0 0
+"window" 280 1416 -728 "Gasper S2 pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"window" 280 1416 -672 "Gasper S2 pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"tele" 216 1488 -728 "Kid HOLA pLAYERSUELO" "other" "lolo" "lolo1" "" "" "" 0 0
+"tele" 952 1792 -312 "Melcho s2 pLAYERSUELO" "other" "tu" "" "" "" "" 0 0
+"bhop" 832 1640 -136 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 696 1640 -128 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 552 1672 -128 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 816 1280 320 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" 464 1784 -128 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 592 1888 -136 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 2808 -488 96 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 744 1872 -120 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"block" 2616 -736 152 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"block" 736 1832 -104 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 90 90
+"block" 2616 -736 168 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" 80 1104 56 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"block" 288 1424 -336 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"window" 280 1432 0 "[TaringaCS] ~  pLAYERSUELO" "norm" "128.0" "" "" "" "" 0 0
+"window" 248 1432 40 "[TaringaCS] ~  pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 0
+"window" 312 1432 32 "[TaringaCS] ~  pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 0
+"window" 184 1448 32 "[TaringaCS] ~  pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 0
+"window" 312 1432 96 "[TaringaCS] ~  pLAYERSUELO" "norm" "128" "" "" "" "" 90 0
+"block" 288 1424 -400 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" -24 1000 80 "-HNS- K7 s2 playersuelo" "big" "" "" "" "" "" 0 90
+"block" 288 1424 -464 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"bhop" 2104 -464 72 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 2728 -1032 32 "Shoket <3 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"window" 88 968 440 "ToX <Playersueloputo>" "big" "150" "" "" "" "" 90 0
+"bhop" 1904 -464 80 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" 1040 256 280 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"block" 2664 -1032 96 "Shoket <3 pLAYERSUELO" "big" "" "" "" "" "" 90 90
+"block" 2728 -1096 96 "Shoket <3 pLAYERSUELO" "big" "" "" "" "" "" 90 0
+"block" 432 1624 -336 "Melcho s2 pLAYERSUELO" "big" "" "" "" "" "" 90 0
+"block" 1640 -616 -16 "Melcho s2 pLAYERSUELO" "big" "" "" "" "" "" 90 90
+"bhop" 1720 -376 80 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" 456 56 296 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 752 88 288 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" -1648 1024 152 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"fatalis" 2464 -1192 16 "Shoket <3 pLAYERSUELO" "norm" "10.0" "1.0" "" "" "" 0 0
+"fatalis" 2464 -1256 16 "Shoket <3 pLAYERSUELO" "norm" "10.0" "1.0" "" "" "" 0 0
+"fatalis" 2464 -1160 -16 "Shoket <3 pLAYERSUELO" "norm" "10.0" "1.0" "" "" "" 90 90
+"block" 816 96 136 "[GeR] s2 playersuelo" "big" "" "" "" "" "" 0 90
+"window" 24 904 440 "ToX <Playersueloputo>" "big" "128.0" "" "" "" "" 90 90
+"window" 152 904 440 "ToX <Playersueloputo>" "big" "128.0" "" "" "" "" 90 90
+"fatalis" 2464 -1288 -16 "Shoket <3 pLAYERSUELO" "norm" "10.0" "1.0" "" "" "" 90 90
+"bhop" 872 176 272 "-HNS- K7 s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"window" 464 144 64 "Melcho s2 pLAYERSUELO" "big" "0" "" "" "" "" 90 0
+"block" 416 912 520 "Kid HOLA pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"bhop" 312 112 296 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 136 392 296 "-HNS- K7 s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"ice" 192 232 296 "ToX <Playersueloputo>" "norm" "" "" "" "" "" 0 0
+"bhop" 96 544 304 "-HNS- K7 s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" 96 784 336 "-HNS- K7 s2 pLAYERSUELO" "tiny" "" "" "" "" "" 0 0
+"window" 56 1000 424 "Kid HOLA pLAYERSUELO" "norm" "128.0" "" "" "" "" 0 0
+"block" 88 904 376 "[GeR] s2 playersuelo" "big" "" "" "" "" "" 0 90
+"fall" 320 912 400 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -728 3248 256 "pepon s2 pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 840 1328 240 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 90 0
+"boost" 144 1512 -520 "Kid HOLA pLAYERSUELO" "norm" "500.0" "" "" "" "" 0 0
+"boost" 296 1456 -416 "Kid HOLA pLAYERSUELO" "norm" "500.0" "" "" "" "" 0 0
+"window" 296 1248 256 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 0 0
+"block" 2632 -736 160 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 90 0
+"boost" 160 1488 -232 "Kid HOLA pLAYERSUELO" "norm" "500.0" "" "" "" "" 0 0
+"tele" 392 2136 -360 "-HNS- K7 s2 playersuelo" "other" "TPK7" "" "" "" "" 0 0
+"block" 288 1424 -272 "[TaringaCS] ~  pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"block" 288 1424 -208 "[TaringaCS] ~  pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"tele" 1088 1688 40 "-HNS- K7 s2 playersuelo" "other" "TPK73" "" "" "" "" 0 0
+"block" 1072 1688 16 "-HNS- K7 s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 824 2072 -304 "-HNS- K7 s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"window" 1944 -664 128 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"block" 2168 -136 16 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" 2048 -160 88 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -448 744 248 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" -1960 2432 200 "Gasper s2 pLAYERSUELO" "big" "" "" "" "" "" 90 0
+"block" -1960 2368 144 "Gasper s2 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"bhop" 1856 -160 88 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 288 1424 -80 "[TaringaCS] ~  pLAYERSUELO" "norm" "" "" "" "" "" 90 90
+"bhop" 2144 -608 56 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 2072 -792 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"block" 1072 1728 48 "-HNS- K7 s2 playersuelo" "norm" "" "" "" "" "" 90 90
+"tele" 816 2128 -272 "-HNS- K7 s2 playersuelo" "other" "" "TPK73" "" "" "" 0 0
+"window" 1944 -792 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"block" 2624 -736 136 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 1880 -728 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 90
+"window" 1944 -664 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"window" 2072 -664 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"window" 2136 -728 0 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 90
+"tele" 1936 -728 16 "[GeR] s2 playersuelo" "other" "tps2" "tps1" "" "" "tps" 0 0
+"bhop" 1144 832 240 "-HNS- K7 s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 2856 280 80 "[GeR] s2 playersuelo" "big" "0" "" "" "" "" 90 90
+"block" -200 1088 360 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"speed" 3400 -72 32 "Kid HOLA pLAYERSUELO" "tiny" "1200.0" "0.0" "1" "" "" 0 0
+"block" 1400 -728 -296 "-HNS- K7 s2 playersuelo" "big" "" "" "" "" "" 0 90
+"window" -8 872 472 "Kid HOLA pLAYERSUELO" "norm" "128.0" "" "" "" "" 0 0
+"tele" 2824 8 56 "[GeR] s2 playersuelo" "other" "tps1" " " "" "" "tps" 0 0
+"bhop" -616 2512 160 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"block" 824 2136 -304 "-HNS- K7 s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" -168 1136 360 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" 2704 -624 96 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" -2696 2576 416 "Garu^" "norm" "" "" "" "" "" 0 0
+"tele" -192 1080 376 "Kid HOLA pLAYERSUELO" "other" "" "lala" "" "" "" 0 0
+"bhop" -64 400 96 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 840 1328 176 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 90 0
+"block" 2624 -152 128 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"ice" 2872 -328 96 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" 1272 -720 -312 "-HNS- K7 s2 playersuelo" "big" "" "" "" "" "" 90 0
+"block" -680 2040 -448 "KU|used----------playersuelo" "big" "" "" "" "" "" 90 0
+"tele" -1992 2112 24 "Kid HOLA pLAYERSUELO" "other" "lala" "" "" "" "" 0 0
+"block" 416 608 544 "Kid HOLA pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"window" 160 1400 -616 "Kid HOLA pLAYERSUELO" "norm" "128.0" "" "" "" "" 90 90
+"boost" -1976 3072 328 "Kid HOLA pLAYERSUELO" "tiny" "500.0" "" "" "" "" 0 0
+"boost" 288 1504 -56 "Kid HOLA pLAYERSUELO" "norm" "500.0" "" "" "" "" 0 0
+"tele" 760 1864 -88 "-HNS- K7 s2 playersuelo" "other" "TPK72" "TPK7" "" "" "" 0 0
+"block" 144 1480 88 "Kid HOLA pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"window" 976 376 120 "[GeR] s2 playersuelo" "norm" "0" "" "" "" "" 0 0
+"block" 2632 -736 144 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 90 0
+"bhop" 696 2104 -352 "-HNS- K7 s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"block" -808 2040 -448 "KU|used----------playersuelo" "big" "" "" "" "" "" 90 0
+"block" 2624 -736 168 "[GeR] s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"window" 544 1096 160 "[GeR] s2 playersuelo" "big" "20" "" "" "" "" 90 90
+"tele" -832 2120 -504 "Kid HOLA pLAYERSUELO" "other" "lolo1" "lolo" "" "" "" 0 0
+"block" 296 1456 48 "-HNS- K7 s2 playersuelo" "tiny" "" "" "" "" "" 0 0
+"block" 2080 416 0 "KU|used---------playersuelo" "norm" "" "" "" "" "" 90 0
+"window" 2136 -728 128 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 90
+"window" 1944 -792 128 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"block" 2112 448 0 "KU|used---------playersuelo" "norm" "" "" "" "" "" 90 90
+"window" 2072 -792 128 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 0
+"window" 1880 -728 128 "[GeR] s2 playersuelo" "big" "75" "" "" "" "" 90 90
+"speed" 1160 720 0 "[GeR] s2 playersuelo" "norm" "3000" "0.0" "1" "" "" 0 0
+"tele" -8 1352 24 "KU|used---------playersuelo" "other" "php" "" "" "" "" 0 0
+"bhop" 2088 152 16 "KU|used---------playersuelo" "tiny" "" "" "" "" "" 0 0
+"bhop" -832 3432 328 "[TaringaCS] ~  Kid pLAYERSUELO" "norm" "" "" "" "" "" 0 0
+"bhop" -2736 2664 448 "Garu^" "tiny" "" "" "" "" "" 0 0
+"bhop" -608 704 240 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" -1960 2368 264 "Gasper s2 pLAYERSUELO" "big" "" "" "" "" "" 0 90
+"block" -2024 2368 200 "Gasper s2 pLAYERSUELO" "big" "" "" "" "" "" 90 90
+"bhop" -744 696 232 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -904 704 232 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -1032 752 232 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -1152 816 232 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"block" -1288 880 232 "[GeR] s2 playersuelo" "norm" "" "" "" "" "" 0 0
+"bhop" -1608 824 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1696 1192 152 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1736 1368 152 "Complicated <3" "norm" "" "" "" "" "" 0 0

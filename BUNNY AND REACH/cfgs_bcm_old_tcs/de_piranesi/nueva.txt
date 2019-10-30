@@ -1,0 +1,164 @@
+"window" 568 -752 544 "aLeee'     T! CS.ar" "big" "128.0" "" "" "" "" 90 0
+"window" 424 -752 544 "aLeee'     T! CS.ar" "big" "128.0" "" "" "" "" 90 0
+"window" 272 -752 544 "aLeee'     T! CS.ar" "big" "128.0" "" "" "" "" 90 0
+"window" 464 -560 472 "NoT mE'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1456 -240 600 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -2360 528 504 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -2208 528 504 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -2512 528 504 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -2664 528 504 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"window" 2344 216 472 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1584 656 552 "Berserk3r     T! CS" "big" "200" "" "" "" "" 90 90
+"window" -704 1584 400 "Compli <3     T! CS" "norm" "0" "" "" "" "" 90 90
+"window" 1152 736 616 "Berserk3r     T! CS x___x" "norm" "0" "" "" "" "" 90 90
+"window" 1088 736 616 "Berserk3r     T! CS x___x" "norm" "0" "" "" "" "" 90 90
+"window" 1024 736 616 "Berserk3r     T! CS x___x" "norm" "0" "" "" "" "" 90 90
+"window" 528 1432 456 "Compli <3     T! CS" "norm" "0" "" "" "" "" 90 0
+"bhop" -264 -72 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -464 184 480 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -392 8 472 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1016 952 304 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 904 952 320 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2032 1136 488 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 776 992 320 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 688 1080 328 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2344 1024 504 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 632 1192 336 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 536 1288 336 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1792 -104 504 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1464 632 480 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 504 288 280 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2496 288 464 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 40 400 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -464 256 552 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -392 184 552 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 416 1376 336 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -1608 144 472 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -648 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 72 1504 400 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -1592 -200 520 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 296 1280 344 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 288 1136 344 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2296 480 280 "Gasper     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 200 992 344 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2312 272 472 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 112 -368 352 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -408 88 208 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" 2088 320 352 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2400 184 392 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1848 160 408 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1968 768 464 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 168 648 344 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -216 1432 384 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -112 1520 400 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 224 1504 400 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2032 992 472 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2272 816 520 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2168 1216 504 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 2304 1224 488 "// Leox     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -2344 -128 408 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 152 448 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2272 656 520 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1440 904 528 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -2440 -232 432 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 1744 752 416 "// Leox     T! CS" "tiny" "390" "" "" "" "" 0 0
+"bhop" -1288 -56 376 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1712 376 488 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2608 -280 448 "Gasper     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 1616 488 512 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2408 320 368 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 248 856 344 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -176 920 344 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 64 696 304 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -16 768 320 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -136 800 328 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -208 1064 360 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -280 1200 368 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -280 1328 376 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 656 152 104 "Gasper     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" -408 -400 176 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -408 -240 200 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1464 168 456 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 544 -216 464 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 496 1432 408 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"window" 304 648 344 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -408 -72 216 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 528 -424 344 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 96 584 344 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1464 -224 320 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1392 -144 344 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -1592 -328 232 ".alan1     T! CS" "tiny" "370" "" "" "" "" 0 0
+"bhop" -1200 -8 400 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1664 1040 504 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 456 -72 456 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 440 -560 344 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 464 -280 328 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1568 1152 528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2176 384 472 "Gasper     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 352 184 280 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2360 440 352 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1728 32 488 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 0 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -128 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 272 -632 344 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1296 176 440 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1984 232 384 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1880 -288 672 "DenisS*     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" 168 -488 344 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1352 328 424 ".alan1     T! CS" "norm" "0" "" "" "" "" 90 90
+"tink" 1496 960 536 "// Leox     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" -1368 -144 616 "Compli <3     T! CS" "big" "160" "" "" "" "" 90 0
+"bhop" 1728 224 448 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -768 560 496 ".alan1     T! CS" "norm" "0" "" "" "" "" 90 90
+"window" -408 280 216 "wckdsck     T! CS" "norm" "250" "" "" "" "" 0 0
+"ice" 168 -56 416 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 112 -216 384 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 336 0 432 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1448 1256 544 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1160 808 528 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 336 16 296 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -264 -648 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 368 -120 312 "Gasper     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"ice" -2632 -72 448 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 1272 544 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1200 1232 552 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1152 1064 536 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -416 160 344 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -264 -344 400 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -264 -512 384 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -264 -216 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1456 752 504 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -432 304 224 "wckdsck     T! CS" "tiny" "420" "" "" "" "" 0 0
+"bhop" -424 -296 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1712 920 472 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -472 352 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 528 -376 464 "Gasper     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1368 -72 528 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -1376 1848 584 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1440 1000 600 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1288 -72 616 "Compli <3     T! CS" "big" "160" "" "" "" "" 90 90
+"fall" 968 1144 264 "// Leox     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -824 2360 576 "Compli <3     T! CS" "norm" "0" "" "" "" "" 0 0
+"window" -824 2296 576 "Compli <3     T! CS" "norm" "0" "" "" "" "" 0 0
+"bhop" -1656 2288 536 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1656 2160 552 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1704 2016 560 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 1864 568 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1496 1872 576 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -648 1792 392 "Compli <3     T! CS" "norm" "0" "" "" "" "" 90 0
+"window" -1184 1856 592 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"boost" -712 2216 160 "Compli <3     T! CS" "tiny" "600" "" "" "" "" 0 0
+"bhop" -848 2136 472 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -936 2040 480 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1048 2024 488 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1168 2112 496 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1256 2192 504 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1400 2256 512 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1512 2344 520 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1528 912 600 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -728 2328 576 "Compli <3     T! CS" "big" "0" "" "" "" "" 0 90
+"fall" 1992 128 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 2296 1288 504 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1520 768 600 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 90
+"tele" 2048 1440 168 "aLeee'     T! CS" "other" "agua" "agua1" "" "" "" 0 0
+"tele" 2056 1848 144 "aLeee'     T! CS" "other" "agua1" "agua" "" "" "" 0 0

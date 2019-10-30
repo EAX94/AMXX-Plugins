@@ -1,0 +1,17 @@
+{
+	"name" : "PM_Jump",
+	"library" : "mod",
+	"identifiers" :
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : [0x51,0x8B,0x0D,"*","*","*","*",0x53,0x8B,0x81,0xD0,0x00,0x00,0x00,0x85,0xC0,0x74,0x11,0x8B,0x81,0xC8]
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : "PM_Jump"
+		}
+	]
+}

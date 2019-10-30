@@ -1,0 +1,79 @@
+"fatalis" -2416 200 -144 "^PaJaRO ;D     T! CS" "big" "-99999" "1.0" "" "" "" 0 90
+"window" 1592 -512 120 "saaaaannnnnn'     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" 584 -88 152 "saaaaannnnnn'     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" 1080 -512 -24 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 0 90
+"ice" 1304 -504 72 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1536 -464 -8 "saaaaannnnnn'     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1680 512 128 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"tink" -1768 584 112 "^PaJaRO ;D     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" 872 -168 80 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -2488 -1936 40 "wckdsck     T! CS @ Weekend" "tiny" "" "" "" "" "" 0 0
+"bhop" -728 -2624 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"boost" -2520 -168 16 "wckdsck     T! CS @ Weekend" "norm" "-2" "" "" "" "" 0 0
+"bhop" -2456 -952 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"ice" 712 104 72 "saaaaannnnnn'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1824 888 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2408 904 64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2456 -1736 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2192 1008 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1648 888 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2016 888 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2016 1008 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2488 728 64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2400 552 64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 912 -336 80 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2376 1016 72 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2456 -1576 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2456 -1384 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -1832 1016 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 472 96 88 "saaaaannnnnn'     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2456 -1080 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"window" -2192 872 88 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -2208 520 128 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2048 520 128 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1840 512 128 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2456 -1216 104 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2360 -536 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2352 -368 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"block" -2528 -744 40 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"boost" -2520 -232 16 "wckdsck     T! CS @ Weekend" "norm" "-2" "" "" "" "" 0 0
+"ice" -536 -2624 24 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2352 -192 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2408 -48 56 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" 840 -24 80 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2472 -208 72 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -2472 -368 96 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"window" -2488 -528 112 "wckdsck     T! CS @ Weekend" "norm" "128.0" "" "" "" "" 0 0
+"window" -2320 856 136 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -1768 960 136 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2104 952 136 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2264 952 136 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1936 952 136 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -2152 592 104 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 472 24 88 "saaaaannnnnn'     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"speed" -1904 -696 -72 "wckdsck     T! CS @ Weekend" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"fatalis" -464 -2784 24 "wckdsck     T! CS @ Weekend" "norm" "125.0" "1.0" "" "" "" 0 0
+"fatalis" -536 -2784 24 "wckdsck     T! CS @ Weekend" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" -32 -2760 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -152 -2664 32 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"tink" 1720 -648 152 "saaaaannnnnn'     T! CS" "tiny" "2" "1.0" "" "" "" 0 0
+"ice" 760 -856 136 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 944 -832 136 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1112 -856 136 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1264 -864 136 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 -2624 24 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"window" -968 -2880 144 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 90 90
+"window" -1400 -2512 128 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 90 90
+"window" -1400 -2376 128 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 90 90
+"window" -2280 448 152 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -2280 448 88 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"boost" -2312 448 -184 "^PaJaRO ;D     T! CS" "tiny" "610" "" "" "" "" 0 0
+"window" -1344 -2624 128 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 90 0
+"window" 648 -160 152 "saaaaannnnnn'     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -1200 -2616 160 "wckdsck     T! CS @ Weekend" "big" "128.0" "" "" "" "" 90 0
+"bhop" -848 -2744 48 "wckdsck     T! CS @ Weekend" "norm" "" "" "" "" "" 0 0
+"bhop" -1656 1016 80 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1664 -704 144 "saaaaannnnnn'     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1440 -912 136 "saaaaannnnnn'     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1824 584 104 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"block" 1272 -136 -72 "saaaaannnnnn'     T! CS" "tiny" "" "" "" "" "" 0 0

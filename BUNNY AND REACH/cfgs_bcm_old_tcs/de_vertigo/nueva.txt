@@ -1,0 +1,141 @@
+"block" -336 1016 -160 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"block" -1632 56 120 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -1176 536 -144 "s4nt0^     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"block" -1584 56 120 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1840 176 136 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1640 -216 128 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"window" -2232 -1504 72 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -672 56 -232 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2032 -192 128 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1784 -152 128 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"block" -336 992 -160 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1888 -48 136 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -1096 -96 -200 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -1480 -232 128 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -1536 504 168 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"bhop" -728 368 -160 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -888 408 -160 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1080 440 -168 "s4nt0^     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1624 280 128 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -704 432 -8 "s4nt0^     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1040 208 128 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -528 192 32 "s4nt0^     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"block" -808 128 72 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1152 304 128 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -1848 -928 112 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 90
+"window" -688 304 -192 "s4nt0^     T! CS" "big" "128.0" "" "" "" "" 90 0
+"window" -1392 504 168 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -728 312 -72 "s4nt0^     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"bhop" -1296 -96 -208 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 -296 -176 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -752 1072 -176 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -600 1072 -168 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -672 584 -240 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -208 -1384 120 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"block" -264 -752 8 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1056 -824 152 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"fall" -2272 -1608 -296 "wckdsck     T! CS @ OnBoard" "big" "" "" "" "" "" 0 90
+"bhop" -432 -1328 264 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -128 -1224 112 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"boost" -2312 -1528 80 "wckdsck     T! CS @ OnBoard" "norm" "1" "" "" "" "" 90 0
+"window" -2128 -1600 200 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 90 90
+"window" -2200 -1504 176 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 90 90
+"tink" -2392 -464 -184 "wckdsck     T! CS @ OnBoard" "norm" "2.0" "1.0" "" "" "" 0 0
+"bhop" -448 1056 -176 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1560 64 -176 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -880 1072 -184 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"window" -2272 -1504 176 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 90 90
+"window" -2128 -1608 56 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 90 90
+"bhop" -2592 -608 -248 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2600 -472 -224 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -264 912 -160 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -2576 1064 64 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1520 232 -176 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -136 840 -152 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -120 704 -152 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -104 568 -152 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1656 344 -184 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -1816 248 -184 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -2208 -1584 128 "wckdsck     T! CS @ OnBoard" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2280 -944 144 "wckdsck     T! CS @ OnBoard" "tiny" "" "" "" "" "" 0 0
+"window" -2344 1024 96 "holli     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2272 1064 72 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -2144 1064 56 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -2384 -808 144 "wckdsck     T! CS @ OnBoard" "tiny" "" "" "" "" "" 0 0
+"bhop" -2432 1064 56 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" -2200 1024 96 "holli     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2608 928 72 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" -1984 1064 32 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1800 -1000 104 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1800 -1152 104 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1776 -1544 104 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"boost" -2304 672 -32 "holli     T! CS.ARGENTINA" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" -1968 -1568 96 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" -1848 -1072 112 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 90
+"window" -1848 -1216 112 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 90
+"window" -2080 -296 160 "holli     T! CS.ARGENTINA" "norm" "0" "" "" "" "" 90 90
+"bhop" -2616 744 104 "holli     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" -1800 -1304 104 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" -656 312 -72 "s4nt0^     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"window" -2296 -1112 88 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 0 90
+"fall" -2232 -1224 -152 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" -2120 -1440 96 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"boost" -1768 -728 8 "wckdsck     T! CS.ARGENTINA" "tiny" "420" "" "" "" "" 0 0
+"bhop" -984 -112 72 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"window" -1952 -872 -112 "kzR0x~     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -2296 -1320 96 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -2568 -752 104 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2616 -928 112 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2616 -1240 112 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2616 -1088 112 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2616 -1424 120 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2376 -1584 128 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2552 -1584 128 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -2600 -328 -200 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -1008 984 -184 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -2552 -200 -176 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"ice" -1016 744 -184 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -1816 64 -184 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -1816 -136 -184 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"window" -1800 -264 -216 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 90 0
+"bhop" -376 232 -168 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -384 80 -168 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -328 -32 -176 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -232 -176 -152 "aLeee'     t! cs" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -376 -1408 128 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -504 -1424 136 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -680 -1400 144 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -832 -1352 152 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"ice" -216 -1080 96 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -960 -1280 160 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -1040 -1136 176 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -1048 -992 168 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -440 -656 144 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -160 -1248 248 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"ice" -656 -648 136 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -288 -1344 256 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -104 -928 176 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"bhop" -568 -1304 272 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -752 -1080 288 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -672 -1208 280 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"window" -32 -680 272 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -32 -1368 272 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -808 -1480 280 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"fatalis" -96 -1456 288 "aLeee'     t! cs" "norm" "125.0" "1.0" "" "" "" 90 90
+"window" -656 -1480 280 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -496 -1480 280 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -344 -1480 280 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"window" -192 -1480 280 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 0
+"bhop" -1392 -232 -200 "wckdsck     T! CS @ OnBoard" "norm" "" "" "" "" "" 0 0
+"bhop" -1568 -184 -200 "wckdsck     T! CS @ OnBoard" "tiny" "" "" "" "" "" 0 0
+"block" -2552 664 104 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -1456 -152 -168 "wckdsck     T! CS @ OnBoard" "big" "128.0" "" "" "" "" 90 90
+"bhop" -2272 568 112 "s4nt0^     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -872 -112 96 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -736 -128 104 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -712 -352 152 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"bhop" -680 -232 136 "aLeee'     t! cs" "norm" "" "" "" "" "" 0 0
+"tink" -880 -272 152 "aLeee'     t! cs" "norm" "2.0" "1.0" "" "" "" 0 0
+"bhop" -1080 -184 40 "aLeee'     t! cs" "tiny" "" "" "" "" "" 0 0
+"window" -1672 448 64 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 90
+"window" -1248 448 64 "aLeee'     t! cs" "big" "0" "" "" "" "" 90 90

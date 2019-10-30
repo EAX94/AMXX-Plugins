@@ -1,0 +1,168 @@
+"window" 1656 408 168 "wckdsck     T! CS.ARGENTINA" "norm" "0" "" "" "" "" 0 0
+"fatalis" -112 2016 24 "NoT mE'     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"window" 1200 928 160 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"window" 680 824 128 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"window" -464 944 152 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"block" -232 2240 -80 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -1528 600 208 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1552 2528 224 "EmnL     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -840 2288 192 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"window" 1528 2968 224 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -496 2008 96 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"boost" 1528 800 8 "Garu^ D x Vida" "tiny" "450" "" "" "" "" 0 0
+"window" -576 2368 160 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 0
+"window" 1512 2152 264 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 90
+"window" 1600 840 144 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" 1600 992 144 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" 1600 688 160 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"bhop" 424 32 200 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1688 624 160 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" 1712 520 160 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"window" -128 -896 112 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"window" -384 2096 152 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"block" 440 1816 104 "Garu^ D x Vida" "big" "" "" "" "" "" 0 90
+"block" 448 1472 104 "Garu^ D x Vida" "big" "" "" "" "" "" 0 90
+"bhop" 64 448 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -144 448 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -232 608 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -96 1496 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -200 1400 152 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1152 -632 264 "ayudatinga | )rury(" "norm" "" "" "" "" "" 0 0
+"window" -2184 -904 280 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 32 -848 112 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1416 2648 112 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 0 90
+"bhop" -328 1416 160 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -2032 168 216 "Complicated <3" "big" "0" "" "" "" "" 90 90
+"window" -2040 -368 224 "Complicated <3" "big" "0" "" "" "" "" 90 90
+"ice" 208 1456 104 "Ayudatinga | Luchoo" "tiny" "" "" "" "" "" 0 0
+"window" 1528 464 160 "Complicated <3" "big" "128.0" "" "" "" "" 90 0
+"ice" 304 -856 128 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"boost" -1816 2456 72 "ayudatinga | )rury(" "tiny" "400" "" "" "" "" 0 0
+"bhop" -704 2456 136 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 296 -528 176 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -312 1776 72 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"fall" -336 1856 -120 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -168 824 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -464 1104 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -168 984 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1032 1008 152 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1952 -664 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1744 136 216 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -384 1960 152 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"window" -1000 2616 136 "Ayudatinga | Luchoo" "big" "128.0" "" "" "" "" 0 90
+"tink" 1656 408 176 "Complicated <3" "norm" "2.0" "1.0" "" "" "" 0 0
+"window" -1360 2640 192 "wckdsck     T! CS" "norm" "0" "" "" "" "" 90 0
+"bhop" -320 1904 96 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -312 2024 120 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"fall" 1560 384 -112 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1816 -120 216 "- aln '" "big" "128.0" "" "" "" "" 90 90
+"window" 1600 536 160 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"window" -384 1824 152 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"bhop" 184 -848 112 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tele" -1720 -208 280 "Complicated <3" "other" "" "compli1" "" "" "" 0 0
+"bhop" -456 1288 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"tink" -168 1168 208 "Complicated <3" "norm" "2.0" "1.0" "" "" "" 0 0
+"window" 240 440 200 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"window" -504 1320 224 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 90
+"window" -504 1160 224 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 90
+"window" -504 1000 224 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 90
+"ice" 1240 2120 168 "Shakee" "tiny" "" "" "" "" "" 0 0
+"window" 1448 2224 264 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1736 864 160 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" 408 -224 200 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 312 -72 200 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" 336 176 208 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tele" 1672 992 112 "Complicated <3" "other" "compli1" "" "" "" "" 0 0
+"bhop" -1920 104 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -2032 56 224 "Complicated <3" "big" "0" "" "" "" "" 90 90
+"bhop" -1944 -408 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -944 2440 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -816 2152 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -2120 -944 248 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -528 2464 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -744 2304 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -936 2280 144 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" -2048 2424 128 "ayudatinga | )rury(" "big" "128.0" "" "" "" "" 90 0
+"window" -648 2136 160 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"window" -840 2544 192 "ayudatinga | )rury(" "big" "0" "" "" "" "" 90 90
+"window" -840 2416 192 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"window" -648 2296 160 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1736 720 160 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" -456 1848 96 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -552 2176 80 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"window" 1456 392 160 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1456 2040 152 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 664 2680 176 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tink" -1896 3128 136 "Ayudatinga | Luchoo" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" -2336 3208 320 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 0
+"window" 1512 2016 264 "Complicated <3" "big" "0" "" "" "" "" 90 90
+"bhop" -1744 -944 176 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -2176 -648 256 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1848 -936 192 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1984 -944 216 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -2072 -664 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -408 2336 88 "wckdsck     T! CS.ARGENTINA" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 1712 2128 168 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 1048 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 2776 216 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -1408 2432 144 "Garu^ D x Vida" "tiny" "" "" "" "" "" 0 0
+"bhop" 728 2096 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 536 2680 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1816 -248 216 "- aln '" "big" "128.0" "" "" "" "" 90 90
+"bhop" 360 2192 216 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"bhop" 1560 1416 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1832 -656 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" -1952 -240 184 "(1).alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1704 -664 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1528 -664 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" -1392 -672 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 2392 192 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 1600 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 1560 1760 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1264 -672 264 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"speed" -1632 2128 8 "Complicated <3" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"block" -1864 1824 72 "Garu^ D x Vida" "tiny" "" "" "" "" "" 0 0
+"bhop" -1832 600 160 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2200 3208 320 "Garu^ D x Vida" "big" "0" "" "" "" "" 90 0
+"bhop" 776 2680 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1920 2424 128 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 0
+"window" -1704 3216 352 "Garu^ D x Vida" "norm" "0" "" "" "" "" 90 90
+"fall" 1312 1920 8 "Shakee" "norm" "" "" "" "" "" 0 0
+"bhop" 1352 1992 200 "Shakee" "tiny" "" "" "" "" "" 0 0
+"window" 1320 1752 264 "Shakee" "norm" "128.0" "" "" "" "" 90 0
+"window" 1320 1832 264 "Shakee" "norm" "128.0" "" "" "" "" 90 0
+"ice" 1304 1648 224 "Shakee" "tiny" "" "" "" "" "" 0 0
+"bhop" -2040 2656 120 "Garu^ D x Vida" "tiny" "" "" "" "" "" 0 0
+"bhop" -1976 -48 192 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 2000 160 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"ice" 1632 2248 168 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" -1520 1928 136 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 664 1008 128 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"tink" 328 1936 224 "Complicated <3" "norm" "2.0" "1.0" "" "" "" 0 0
+"ice" 1080 2088 144 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"bhop" -1712 -16 240 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"bhop" 352 2072 224 "Complicated <3" "tiny" "" "" "" "" "" 0 0
+"window" -504 848 224 ".alan1     T! CS" "big" "0" "" "" "" "" 90 90
+"window" 376 2688 200 "Complicated <3" "big" "250" "" "" "" "" 0 90
+"bhop" -1696 600 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"tink" -1488 232 256 "-aln calafa, dum dum dum, calaf" "big" "2.0" "1.0" "" "" "" 0 90
+"ice" 904 2072 144 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"tink" -232 1168 208 "-aln1" "norm" "2.0" "1.0" "" "" "" 0 0
+"window" -1560 232 320 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1504 440 224 "EmnL     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1448 2152 200 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 0 90
+"window" 368 2360 200 "Complicated <3" "big" "250" "" "" "" "" 0 90
+"bhop" 904 2696 152 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"speed" -400 2136 -120 "Complicated <3" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" 1480 1328 8 "Garu^ D x Vida" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" -1848 256 184 "Complicated <3" "norm" "" "" "" "" "" 0 0
+"window" -1272 2664 184 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"ice" 992 512 104 "Ayudatinga | Luchoo" "norm" "" "" "" "" "" 0 0
+"window" 1320 1912 264 "Shakee" "norm" "128.0" "" "" "" "" 90 0
+"window" -1720 2504 128 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 90
+"window" -1792 2440 128 "Garu^ D x Vida" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1000 744 120 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"ice" 1560 1200 128 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 824 832 120 "Garu^ D x Vida" "norm" "" "" "" "" "" 0 0
+"bhop" 1344 1752 200 "Shakee" "tiny" "" "" "" "" "" 0 0
+"bhop" 1344 1864 192 "Shakee" "tiny" "" "" "" "" "" 0 0

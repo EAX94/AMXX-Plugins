@@ -1,0 +1,125 @@
+"bhop" -2176 -488 -472 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2176 -160 -456 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2176 -320 -464 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 32 -1104 -440 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 136 1648 -496 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2016 -792 -520 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 272 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 160 1496 -504 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -368 1088 -400 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -880 -288 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -768 -440 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -2064 920 -632 "wckdsck     T! CS" "tiny" "300" "" "" "" "" 0 0
+"bhop" -2624 0 -512 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 200 -1192 -448 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -2704 -1016 -448 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -112 2432 -440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -112 2120 -456 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -136 -608 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2712 -1256 -504 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2712 -1120 -472 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2712 -1392 -528 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2536 -1016 -448 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2472 -1192 -440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2360 -1360 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2168 1152 -504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -152 -896 -448 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -568 -448 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1152 256 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2256 1720 -456 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"fatalis" -272 816 -552 "^PaJaRO ;D     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" 232 920 -512 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 104 824 -496 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -40 824 -488 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -184 840 -480 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -320 952 -480 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -656 1136 -536 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -112 2272 -448 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -552 1160 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -248 1656 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 184 1336 -504 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -256 1480 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 1160 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -248 1856 -432 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" -2168 -672 -488 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -864 -1272 -568 "wckdsck     T! CS" "tiny" "450" "" "" "" "" 0 0
+"bhop" -736 -1416 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2336 -128 -456 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -584 -1416 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -1416 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 -1296 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -160 -1296 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -40 -1400 -456 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2200 -1072 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2224 -1232 -440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2056 -1072 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -16 -472 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 152 -512 -416 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 152 -712 -408 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 152 -944 -400 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" -248 1264 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 112 1928 -480 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -360 -440 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -48 -168 -448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2880 1408 -384 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2424 984 -504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 0 2016 -472 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2000 -1280 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1848 -1360 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1712 -1248 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -128 -776 -464 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"boost" -2072 -872 -640 "^PaJaRO ;D     T! CS" "tiny" "280" "" "" "" "" 0 0
+"ice" -2880 1616 -432 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2296 1544 -456 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2696 1624 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2904 952 -504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2904 1160 -504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2768 1424 -472 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2656 1352 -464 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2880 1336 -496 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -880 -112 -440 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1016 584 -488 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -176 1856 -368 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 8 2528 -440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1208 584 -472 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 456 -448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 152 2520 -440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2352 1144 -504 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2640 1192 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2760 1112 -416 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2496 1552 -448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2760 1248 -408 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"tink" -160 176 -416 "^PaJaRO ;D     T! CS" "norm" "2.0" "1.0" "" "" "" 0 0
+"fatalis" 144 1720 -584 "^PaJaRO ;D     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"bhop" -976 256 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -880 80 -440 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 176 1992 -456 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 256 2368 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 392 2288 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2256 1880 -456 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 512 2192 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 488 2016 -424 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"window" -2816 2304 -448 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -2376 2168 -456 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1568 1176 -536 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"ice" 128 392 -528 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1440 1168 -536 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1272 1160 -552 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -2520 2304 -448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -80 320 -448 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1552 984 -520 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1224 904 -504 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1136 1144 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1392 952 -512 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -976 1080 -456 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -1312 1184 -432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -2816 1952 -448 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"speed" 8 712 -632 "wckdsck     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"tink" -1584 944 -408 "^PaJaRO ;D     T! CS" "norm" "2.0" "1.0" "" "" "" 0 0
+"bhop" -1016 912 -472 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -1456 1152 -424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -1448 1872 -680 "wckdsck     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" -2208 1552 -632 "wckdsck     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" -2176 -792 -648 "wckdsck     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"speed" -1216 -152 -632 "wckdsck     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" 80 -1008 -344 "wckdsck     T! CS | NCIS :)" "big" "128.0" "" "" "" "" 90 0

@@ -1,0 +1,171 @@
+"bhop" -144 1464 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"fatalis" -64 0 -80 "Compli <3     T! CS" "norm" "125" "1.0" "" "" "" 0 0
+"bhop" -336 -240 88 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1736 1808 80 "DenisS*     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -1536 1480 80 "Berserk3r     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 680 1448 248 "Compli <3     T! CS" "norm" "230" "" "" "" "" 0 0
+"bhop" -56 -1528 -72 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1016 -1432 -80 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -496 -280 96 "Compli <3     T! CS" "tiny" "450" "" "" "" "" 0 0
+"bhop" 336 312 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -448 416 0 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -1200 -88 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"speed" -688 1224 -216 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 304 -1096 -48 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 200 -240 216 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 384 -160 216 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1320 968 -160 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -184 224 208 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1920 112 -120 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -480 576 16 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 512 160 40 "Compli <3 Sa     T! CS" "big" "0" "" "" "" "" 90 0
+"fatalis" -64 64 -80 "Compli <3     T! CS" "norm" "125" "1.0" "" "" "" 0 0
+"bhop" -160 568 56 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -136 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 24 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 592 -168 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 624 -1184 -80 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 168 -1000 -40 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" 912 -1352 -80 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -368 1496 168 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -112 1552 216 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 176 -904 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 168 -1152 -56 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 160 568 88 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 80 -1312 -56 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 344 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -16 -1408 -64 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 832 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -448 -912 -64 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -408 -1472 -80 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1192 680 -112 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" 1216 -1288 -40 "Compli <3     T! CS" "big" "2.0" "1.0" "" "" "" 0 90
+"bhop" 1728 560 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 496 -1104 -88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1600 560 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 800 -1240 -80 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1776 -120 -120 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -336 -1320 -88 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1120 -1504 -72 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1432 1440 48 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1280 1256 48 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1112 1440 40 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1400 1224 -216 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1464 560 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -296 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -192 -176 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -16 568 64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 568 40 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1048 512 -32 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"ice" 1136 1568 216 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1432 1304 48 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1176 576 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 632 -1248 -200 "Compli <3 Sa     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"bhop" 992 -904 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1648 1808 -112 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 976 -1552 -24 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 0
+"boost" -1584 1696 -16 "Compli <3     T! CS" "tiny" "450" "" "" "" "" 0 0
+"block" -648 1224 112 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -648 1184 80 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -160 1632 184 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 912 -120 72 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1208 -1440 -56 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -16 1480 248 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 120 1480 272 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"speed" -72 560 -216 "DenisS*     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"block" 912 -208 72 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 328 -1000 -40 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"window" 472 -1000 -40 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -440 -1056 -72 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 496 -912 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 320 576 112 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1328 568 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1920 240 -120 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1912 376 -120 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1864 520 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1056 1640 48 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 1584 -160 -152 "Compli <3 n1co     T! CS" "big" "0" "" "" "" "" 0 90
+"bhop" 1520 -224 -72 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1616 -216 -88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1432 -216 -64 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1696 -184 -104 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1264 -184 -24 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"block" 1336 -216 -56 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1032 -1632 -40 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -320 1632 -80 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -240 1544 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" 952 -280 -216 "Compli <3     T! CS" "tiny" "700" "" "" "" "" 0 0
+"bhop" 0 1488 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 136 1472 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 976 1576 16 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 272 1464 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 416 1448 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1352 1280 80 "s4nt0^     t! cs.-" "big" "128.0" "" "" "" "" 90 90
+"block" 1360 -880 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1320 1504 48 "Berserk3r     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -432 264 0 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 120 0 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -416 -16 0 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1280 1408 48 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 768 -160 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 656 -160 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 136 -224 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 544 1456 -64 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 224 -128 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 344 -208 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 512 -120 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 680 1456 -56 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 752 1568 -24 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 848 1640 0 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 32 -152 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 624 -1000 -40 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -88 -248 88 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 448 736 120 "Compli <3     T! CS" "norm" "128.0" "" "" "" "" 90 90
+"ice" -24 368 208 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -456 1544 -80 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 56 160 40 "Compli <3 Sa     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -1992 1488 88 "DenisS* Musica Onn     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -1992 1344 88 "DenisS* Musica Onn     T! CS" "big" "0" "" "" "" "" 90 90
+"window" 280 1488 280 "Compli <3     T! CS" "big" "180" "" "" "" "" 0 90
+"window" -464 120 192 "Compli <3     T! CS" "norm" "230" "" "" "" "" 0 0
+"ice" 1920 -24 -128 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -416 -40 216 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" 1168 -896 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -968 1472 32 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -848 1384 24 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -592 1048 32 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1264 1648 192 "Compli <3     T! CS" "norm" "230" "" "" "" "" 0 0
+"bhop" 1320 1688 160 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 944 1560 224 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -736 1064 32 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 784 1560 248 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1344 1592 104 "Compli <3     T! CS" "big" "128" "" "" "" "" 0 90
+"bhop" 568 680 176 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 472 376 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 184 312 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 640 336 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -416 -184 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -760 1264 32 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1216 1480 64 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -1216 1344 64 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1680 1280 40 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -392 1272 168 "kzR0x~     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -1552 1280 48 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 432 440 200 "Compli <3     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1144 1568 72 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1240 1648 88 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 808 544 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 792 392 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -32 -264 224 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -216 -176 216 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -592 1344 160 "DenisS*     T! CS" "tiny" "" "" "" "" "" 0 0
+"fall" 1272 1624 -216 "Compli <3 Mati     T! CS" "big" "" "" "" "" "" 0 90
+"bhop" 696 616 184 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1352 1408 80 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1688 1456 48 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -664 1152 88 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1128 1296 48 "DenisS*     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -664 1288 88 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -1032 1368 56 "DenisS*     T! CS" "big" "128.0" "" "" "" "" 90 90
+"ice" -344 312 208 "Compli <3     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 664 -920 -64 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0

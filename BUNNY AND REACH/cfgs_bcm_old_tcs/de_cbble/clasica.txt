@@ -1,0 +1,164 @@
+"window" -2144 -2240 200 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"boost" -1528 1400 176 "wckdsck     T! CS" "big" "1" "" "" "" "" 0 90
+"window" -2752 -1976 192 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -896 280 168 "wckdsck     T! CS" "norm" "0" "" "" "" "" 90 90
+"window" 440 2120 160 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -696 2176 32 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -1384 2536 168 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 896 -1248 176 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" 288 -648 128 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 568 -88 224 "AyudaTinga | fantasy" "tiny" "" "" "" "" "" 0 0
+"boost" -640 -608 -40 "ayudatinga | gaby" "tiny" "550" "" "" "" "" 0 0
+"window" -88 -1240 176 "Compli <3     T! CS" "norm" "0" "" "" "" "" 90 90
+"ice" 928 -1400 192 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2512 2248 104 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"ice" -2544 2064 80 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -488 2792 200 "Shakee s2 Plasmitaa" "norm" "" "" "" "" "" 0 0
+"bhop" 136 2752 160 "`Shakee  ." "norm" "" "" "" "" "" 0 0
+"ice" 104 2328 72 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -472 2224 48 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"ice" -2016 -616 144 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" -200 2864 192 "Shakee s2 Plasmitaa" "norm" "" "" "" "" "" 0 0
+"bhop" -2024 -896 144 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" 424 1024 136 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2048 -1056 144 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"block" -2880 -1584 136 "AyudaTinga | fantasy" "big" "" "" "" "" "" 0 90
+"bhop" 624 -368 152 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"speed" -2328 1872 8 "Complicated <3" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 952 -1128 168 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" 144 -664 104 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"ice" -2920 -816 176 "Ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" 664 -200 168 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -432 -840 112 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -352 2896 192 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"fatalis" -2752 -416 136 "Compli <3     T! CS" "big" "125" "1.0" "" "" "" 0 90
+"window" -2632 1216 144 "Ayudantinga Santi" "big" "128.0" "" "" "" "" 90 90
+"bhop" -2064 1848 128 "Ayudantinga Santi" "tiny" "" "" "" "" "" 0 0
+"window" -728 256 168 "ayudantinga KU|used----------" "norm" "0" "" "" "" "" 0 0
+"window" -712 120 168 "ayudantinga KU|used----------" "norm" "0" "" "" "" "" 0 0
+"bhop" -2168 2480 136 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -1864 2072 112 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"ice" -2312 1608 152 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0
+"bhop" -1720 2528 152 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"window" 64 -1240 240 "lP; alnSGt0hh.-" "norm" "0" "" "" "" "" 90 90
+"window" -2056 160 -136 "- aln '" "norm" "128.0" "" "" "" "" 0 0
+"bhop" -2488 840 192 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -2320 2472 128 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"window" -192 -1248 192 "Compli <3 Musika ONN     T! CS" "norm" "0" "" "" "" "" 90 90
+"bhop" -1856 2528 152 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -672 2536 200 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -1856 960 192 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"fatalis" -2720 -544 136 "ayudatinga | gaby" "big" "125" "1.0" "" "" "" 0 90
+"bhop" -264 -744 224 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -736 2376 200 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -600 2672 200 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -2416 -344 136 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"boost" -1944 -1552 24 "ayudatinga | gaby" "tiny" "400" "" "" "" "" 0 0
+"bhop" -16 2816 160 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" -1448 -864 24 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 528 -480 152 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -272 -888 112 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 0 -768 112 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2168 840 192 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"window" -2464 -560 112 "ayudatinga | gaby" "big" "128.0" "" "" "" "" 90 0
+"window" 248 -1104 192 "-aln" "big" "200" "" "" "" "" 0 90
+"bhop" -128 -784 96 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2704 -384 160 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -2136 -408 136 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -2280 -360 136 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"window" -2592 -560 96 "ayudatinga | niiqo" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2016 -752 136 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"window" -2120 1936 72 "- aln '" "norm" "128.0" "" "" "" "" 0 0
+"bhop" 384 -96 224 "AyudaTinga | fantasy" "tiny" "" "" "" "" "" 0 0
+"ice" 448 -632 120 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2016 2528 144 "-aln" "norm" "" "" "" "" "" 0 0
+"boost" -744 2232 40 "Ayudantinga Santi" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" -2824 -440 168 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"window" -680 320 176 "ayudantinga KU|used----------" "norm" "0" "" "" "" "" 90 0
+"window" 1464 -1696 224 "-aln" "big" "200" "" "" "" "" 0 90
+"bhop" -1280 -1160 96 "-aln" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 -1168 104 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" 408 1424 136 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" 712 -72 200 "-aln" "norm" "200" "" "" "" "" 0 0
+"block" -1232 -904 72 "-aln" "tiny" "" "" "" "" "" 0 0
+"ice" -2496 1552 144 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 264 1736 128 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -2752 -1624 192 "ayudatinga | niiqo" "big" "" "" "" "" "" 0 90
+"bhop" 456 2656 176 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 280 2776 168 "Compli <3" "norm" "" "" "" "" "" 0 0
+"fatalis" -2608 -416 120 "ayudatinga | niiqo" "big" "125" "1.0" "" "" "" 0 90
+"bhop" -16 -96 216 "AyudaTinga | fantasy" "tiny" "" "" "" "" "" 0 0
+"bhop" -168 -128 216 "AyudaTinga | fantasy" "tiny" "" "" "" "" "" 0 0
+"bhop" -272 -440 200 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -264 -592 200 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" -3336 576 96 "lP; alnSGt0hh.-" "norm" "0" "" "" "" "" 0 0
+"bhop" -1552 -1352 104 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -2560 -352 144 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"window" -2688 -320 -48 "Complicated <3" "big" "128.0" "" "" "" "" 90 90
+"ice" -2464 2400 112 "-aln" "norm" "" "" "" "" "" 0 0
+"bhop" -1760 1072 200 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -1520 2328 160 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" 408 1240 136 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -1568 2528 160 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"window" 1200 -1472 64 "ayudatinga | niiqo" "big" "128.0" "" "" "" "" 90 90
+"bhop" 424 1624 128 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 80 1728 136 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"window" -736 176 168 "ayudantinga KU|used----------" "norm" "0" "" "" "" "" 0 0
+"bhop" -2320 840 192 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"window" -2560 1288 144 "Ayudantinga Santi" "big" "128.0" "" "" "" "" 90 0
+"bhop" -2752 1352 136 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"block" -1120 2144 160 "Complicated <3" "norm" "" "" "" "" "" 90 90
+"bhop" -1608 1144 216 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -1680 2144 144 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -2752 1192 144 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -2752 1040 160 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"bhop" -184 -896 240 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -80 -1000 216 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" 64 -1136 184 "AyudaTinga | fantasy" "norm" "" "" "" "" "" 0 0
+"bhop" -2784 -1264 208 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" -2808 -2032 200 "AyudaTinga | fantasy" "tiny" "2.0" "1.0" "" "" "" 0 0
+"bhop" -2880 -944 200 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -2784 -1080 208 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" -2904 -592 176 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"window" -616 -936 184 "AyudaTinga | fantasy" "big" "0" "" "" "" "" 90 0
+"bhop" -80 2288 80 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"fall" -2336 424 -248 "DenisS*" "big" "" "" "" "" "" 0 90
+"bhop" 1072 -1576 208 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 1264 -1584 224 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" -1776 -1176 128 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 416 2328 176 "`Shakee  ." "norm" "" "" "" "" "" 0 0
+"window" 1136 -1384 64 "ayudatinga | niiqo" "big" "128.0" "" "" "" "" 90 0
+"bhop" -1800 -1040 136 "ayudatinga | niiqo" "norm" "" "" "" "" "" 0 0
+"bhop" 464 2488 176 "Shakee" "norm" "" "" "" "" "" 0 0
+"window" -1352 1400 248 "kzR0x~     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -2552 -1952 192 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -104 1448 176 "wckdsck     T! CS" "tiny" "300" "" "" "" "" 0 0
+"boost" 496 856 32 "wckdsck     T! CS" "tiny" "350" "" "" "" "" 0 0
+"block" -304 1192 112 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -776 2304 -248 "Compli <3 Musika ONN     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -120 960 192 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1160 -872 216 "Compli <3 Musika ONN     T! CS" "big" "200" "" "" "" "" 0 90
+"ice" -1360 -960 208 "Compli <3 Musika ONN     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" -1216 -816 224 "Compli <3 Musika ONN     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"ice" -1720 -1344 120 "Compli <3 Musika ONN     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1744 -896 160 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -2352 -1976 192 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2208 -2048 200 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 360 688 208 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -2016 888 192 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 208 768 216 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 40 856 216 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -760 2824 80 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -760 2824 144 "wckdsck     T! CS" "norm" "128.0" "" "" "" "" 90 0
+"window" -64 -1240 248 "lP; alnSGt0hh.-" "norm" "0" "" "" "" "" 90 90
+"boost" 1072 -1032 -120 "heroine     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"speed" 616 -1016 -120 "heroine     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -1448 1216 224 "Ayudantinga Santi" "norm" "" "" "" "" "" 0 0
+"boost" 1328 -1296 64 "wckdsck     T! CS" "tiny" "250" "" "" "" "" 0 0
+"bhop" -1576 -984 176 "Compli <3 Musika ONN     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1480 -1032 200 "Compli <3 Musika ONN     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1288 -912 128 "-aln" "tiny" "" "" "" "" "" 0 0
+"bhop" 1328 -1040 128 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" 1008 -1008 152 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"bhop" 1136 -912 136 "ayudatinga | gaby" "norm" "" "" "" "" "" 0 0
+"ice" -280 2280 80 "ayudatinga | niiqo" "tiny" "" "" "" "" "" 0 0

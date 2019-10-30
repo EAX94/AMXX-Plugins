@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /torneo_ctf/
+RewriteRule ^solicitudes$ solicitudes.php [L]
+RewriteRule ^solicitudes/$ solicitudes.php [L]
+RewriteRule ^torneo_ctf_confirm$ torneo_ctf_confirm.php [L]
+RewriteRule ^torneo_ctf_confirm/$ torneo_ctf_confirm.php [L]
+RewriteRule ^torneo_ctf_confirm_group$ torneo_ctf_confirm_group.php [L]
+RewriteRule ^torneo_ctf_confirm_group/$ torneo_ctf_confirm_group.php [L]

@@ -1,0 +1,170 @@
+"window" -1528 -808 296 "NoT mE'     T! CS" "big" "0" "" "" "" "" 90 0
+"block" -2088 -488 248 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"window" -2120 -504 248 "aLeee'     T! CS.ar" "norm" "0" "" "" "" "" 90 90
+"block" -2064 -496 248 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"block" -2064 -464 248 "aLeee'     T! CS.ar" "tiny" "" "" "" "" "" 0 0
+"bhop" -272 368 224 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1832 -568 256 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"ice" 1256 1048 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" 376 120 168 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" -216 1368 152 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" 696 2240 200 "NoT mE'     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1168 920 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -408 2184 128 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1608 992 192 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 1080 624 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 816 2664 224 "Berserk3r     T! CS.ar" "norm" "128.0" "" "" "" "" 0 0
+"window" -1696 1776 192 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" 664 2632 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -1368 2232 176 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -1552 -936 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1600 688 144 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1864 -936 240 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -1632 2112 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" 696 2168 264 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1352 1472 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 640 848 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1792 -208 232 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" 480 -32 152 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 1360 1280 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" -1936 352 224 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 176 392 192 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1080 2064 232 "wckdsck     T! CS.ARGENTINA" "big" "128.0" "" "" "" "" 90 0
+"boost" 904 1144 56 "// Leox     T! CS" "tiny" "360" "" "" "" "" 0 0
+"bhop" -384 1416 48 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 584 800 216 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"ice" 1720 2024 152 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"tink" -968 -560 296 "NoT mE'     T! CS.notmeland" "norm" "2.0" "1.0" "" "" "" 90 0
+"bhop" 1632 2168 160 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" -2048 80 272 "Berserk3r     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -2048 200 360 "Berserk3r     T! CS" "norm" "0" "" "" "" "" 90 0
+"window" -2048 200 288 "Berserk3r     T! CS" "norm" "9" "" "" "" "" 90 0
+"bhop" 1464 2208 184 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1520 2384 200 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1416 2496 216 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 1296 2592 216 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" -1696 -696 256 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"fatalis" -112 2024 24 "Berserk3r     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"fatalis" -1056 2088 96 "wckdsck     T! CS.ARGENTINA" "big" "125.0" "1.0" "" "" "" 0 90
+"bhop" 1160 2528 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -752 2368 136 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 992 2656 224 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" -1808 2784 128 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -320 2104 -120 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -1992 192 224 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -464 432 224 "Compli <3     T! CS" "big" "200" "" "" "" "" 0 90
+"bhop" -144 432 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -256 2048 208 "aLeee'     T! CS" "norm" "0" "" "" "" "" 90 0
+"window" -256 2136 208 "aLeee'     T! CS" "norm" "0" "" "" "" "" 90 0
+"block" -392 1720 48 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -432 2376 112 "aLeee'     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1104 448 136 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 576 1000 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 704 1112 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 776 832 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 912 824 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1560 2472 240 "wckdsck     T! CS  soy un cono" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1048 784 136 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1600 1008 144 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 1600 848 144 "// Leox     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" -1720 -936 232 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -56 -704 160 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1984 -816 240 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1736 760 160 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2008 -656 232 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 1408 2176 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -456 912 96 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -448 760 120 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1448 2704 136 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1752 992 168 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 720 800 216 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -2008 -480 248 "Compli <3     T! CS" "norm" "200" "" "" "" "" 0 0
+"bhop" -2008 -368 232 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -2000 -176 224 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2000 16 216 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 192 240 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1568 408 160 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1576 1760 192 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 0
+"bhop" -168 -616 144 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 64 -792 176 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 200 -768 192 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" 232 -640 200 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 1728 640 160 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1760 896 160 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1776 440 232 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -320 704 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -600 2400 136 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 1056 904 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" -1616 352 240 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1424 2064 136 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -264 1528 -120 ".alan1     T! CS" "tiny" "500.0" "" "" "" "" 0 0
+"bhop" 320 344 176 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" 1560 376 -88 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -448 1272 56 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1976 2704 152 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -440 1128 72 ".alan1     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" -448 1016 80 ".alan1     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" -1352 2656 184 "wckdsck     T! CS" "norm" "0" "" "" "" "" 90 0
+"bhop" 8 344 208 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" -376 528 8 "Compli <3     T! CS" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"bhop" 1688 504 152 "// Leox     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -192 1032 144 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -192 1200 152 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -216 816 144 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 136 1496 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 2016 136 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"tink" 504 1416 104 "Compli <3     T! CS" "tiny" "1" "3" "" "" "" 0 0
+"ice" -1328 -936 192 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 1352 1648 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" -1816 2632 168 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1352 1824 128 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 1288 2232 192 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 1096 2128 200 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 904 2248 200 "NoT mE'     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"ice" 1496 1848 128 "wckdsck     T! CS.ARGENTINA" "tiny" "" "" "" "" "" 0 0
+"tink" -416 1696 56 "aLeee'     T! CS" "tiny" "2.0" "1.0" "" "" "" 0 0
+"window" -296 1704 168 "Compli <3     T! CS" "norm" "0" "" "" "" "" 90 0
+"bhop" -1392 2576 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1152 2288 112 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"fatalis" -1824 1824 136 "EmnL     T! CS" "norm" "125.0" "1.0" "" "" "" 0 0
+"window" -2080 2120 168 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -1368 2088 176 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -2080 2264 168 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -1712 2856 168 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 0
+"window" -1568 2856 176 "Compli <3     T! CS" "big" "0" "" "" "" "" 90 0
+"ice" -1760 1920 128 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2040 2344 136 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -2000 2160 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1896 2016 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1408 2216 128 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1584 1832 136 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1560 2600 240 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" -2056 -368 288 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" -1472 1920 136 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1400 2384 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1624 2784 128 "Compli <3     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1232 392 136 "heroine     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" 1376 384 144 "heroine     T! CS" "norm" "" "" "" "" "" 0 0
+"block" -1632 2528 176 "^PaJaRO ;D     T! CS" "big" "" "" "" "" "" 0 90
+"window" -504 840 224 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 90
+"window" -504 984 224 "wckdsck     T! CS" "big" "0" "" "" "" "" 90 90
+"block" -232 2224 -80 "wckdsck     T! CS" "tiny" "" "" "" "" "" 0 0
+"ice" -1688 40 240 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" -1712 -120 192 "wckdsck     T! CS.ARGENTINA" "big" "128" "" "" "" "" 90 0
+"bhop" -1040 2152 120 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -896 2248 128 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 640 -288 152 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"bhop" 648 -120 152 "wckdsck     T! CS.ARGENTINA" "norm" "" "" "" "" "" 0 0
+"window" 368 -704 248 "wckdsck     T! CS.ARGENTINA" "big" "0" "" "" "" "" 90 90
+"window" 368 -848 248 "wckdsck     T! CS.ARGENTINA" "big" "0" "" "" "" "" 90 90
+"fall" -392 1776 -120 "aLeee'     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1512 -728 256 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"ice" -1336 -704 256 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 584 2504 232 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" -1152 -656 256 "NoT mE'     T! CS.notmeland" "norm" "" "" "" "" "" 0 0
+"bhop" 440 2400 232 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"bhop" 360 2256 232 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"ice" 360 2096 232 "Berserk3r     T! CS.ar" "norm" "" "" "" "" "" 0 0
+"window" 336 1912 232 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 0 90
+"window" 648 2384 320 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 90 0
+"window" 560 2296 320 "Berserk3r     T! CS.ar" "big" "128.0" "" "" "" "" 90 90

@@ -1,0 +1,167 @@
+"window" -1008 1368 416 ".alan1     T! CS" "big" "128.0" "" "" "" "" 0 90
+"fall" 1272 752 72 "EmnL     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" -800 808 72 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -216 -664 256 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"window" 1088 1296 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 872 1088 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"window" 872 1248 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"bhop" 1976 376 376 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1960 200 376 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" 1264 632 528 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" 1248 1008 504 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1248 824 520 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1424 1256 376 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 2400 1160 368 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -392 -520 280 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 2248 976 368 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -264 -536 280 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1872 1312 256 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -752 888 376 ".alan1     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 2128 856 376 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1976 856 376 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 872 928 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 90 90
+"ice" 976 -688 344 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -448 -648 280 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"block" -1368 840 352 "Ayudantinga kajva*" "big" "" "" "" "" "" 0 90
+"bhop" -1744 1464 424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -656 -888 264 "^PaJaRO ;D     T! CS" "norm" "128.0" "" "" "" "" 0 0
+"ice" 1072 896 440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -336 -1288 240 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -512 -768 280 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1976 696 376 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1064 1088 440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1976 536 376 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 944 -1064 296 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"speed" 2256 712 72 "Ayudantinga kajva*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" 1304 -1008 432 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -928 848 376 ".alan1     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -616 1272 208 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"boost" -1504 904 72 ".alan1     T! CS" "tiny" "450" "" "" "" "" 0 0
+"window" 544 -1440 88 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"block" 1376 -1440 160 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"bhop" 1168 872 256 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"window" 416 -1440 88 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -1192 -1448 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1136 -1008 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1192 -1272 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1136 -1144 112 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1048 -840 152 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1368 1408 384 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1296 1016 368 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1880 1008 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"window" -544 1912 176 "Ayudantinga kajva*" "norm" "128.0" "" "" "" "" 90 0
+"bhop" -840 1640 272 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1008 -1616 192 "wckdsck     T! CS" "norm" "250" "" "" "" "" 0 0
+"window" -640 -1288 240 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"bhop" -512 1496 376 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"boost" 672 -824 128 ".alan1     T! CS" "tiny" "550" "" "" "" "" 0 0
+"ice" -1416 1280 240 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"window" -1784 968 504 "^PaJaRO ;D     T! CS" "big" "128" "" "" "" "" 90 90
+"bhop" -1232 1152 368 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1016 -1296 192 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -584 -1232 200 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -424 -1232 200 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -280 -1176 216 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1616 1496 408 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1264 1296 376 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1480 1504 400 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -216 -1040 240 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -1552 1448 248 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -1016 -984 176 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1016 -1160 192 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1904 1312 320 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1784 1360 432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1888 1160 312 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -872 -1232 200 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -280 -168 384 "Ayudantinga, cucZZZi" "tiny" "" "" "" "" "" 0 0
+"ice" -1336 1112 232 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -1784 1040 312 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -1672 920 320 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -1528 880 336 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 808 -1064 296 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 760 -552 352 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 90 0
+"ice" -1816 1248 432 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -616 1584 368 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"speed" 48 1024 -184 "Ayudantinga kajva*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"window" -1144 400 256 "Complicated <3" "norm" "0" "" "" "" "" 0 0
+"bhop" -584 1200 392 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"bhop" -536 1144 184 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -712 1120 392 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"bhop" -472 1008 160 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -776 1520 248 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -512 1304 384 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"bhop" -616 1392 376 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"bhop" -528 1728 368 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"ice" -384 912 136 ".alan1     T! CS" "tiny" "" "" "" "" "" 0 0
+"tink" -1088 1376 480 ".alan1     T! CS" "big" "2.0" "1.0" "" "" "" 90 90
+"bhop" 1272 -1064 296 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -848 1744 296 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1552 -1248 144 "Ayudantinga, cucZZZi" "big" "128.0" "" "" "" "" 90 90
+"bhop" -848 1152 384 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"block" 1376 -1336 288 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"bhop" -1016 -1456 192 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1392 984 232 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" -864 1296 400 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"ice" 1416 1104 392 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 912 -352 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1016 1296 472 "ayudantinga KU|used-----" "big" "128.0" "" "" "" "" 90 0
+"bhop" 1104 -1056 296 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1832 944 184 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1504 1040 216 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 1288 896 248 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"bhop" 1104 -1032 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1376 -1312 160 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"bhop" 480 -1032 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 368 -920 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 368 -688 440 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" -752 1856 328 ".alan1     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -1888 792 176 "Ayudantinga, cucZZZi" "big" "128.0" "" "" "" "" 90 0
+"bhop" 960 1184 264 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1048 920 264 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"ice" 952 1336 264 "^PaJaRO ;D     T! CS" "tiny" "" "" "" "" "" 0 0
+"speed" -1136 16 -56 "Ayudantinga kajva*" "norm" "1200.0" "0.0" "1" "" "" 0 0
+"ice" 1248 -416 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1408 960 400 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1312 1544 336 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1352 488 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"ice" 1400 816 416 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1408 1408 360 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1744 1184 216 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 968 1032 264 "Ayudantinga kajva*" "norm" "" "" "" "" "" 0 0
+"window" -1440 272 128 "Ayudantinga, cucZZZi" "big" "128.0" "" "" "" "" 90 90
+"bhop" -656 880 368 ".alan1     T! CS" "tiny" "" "" "" "" "" 0 0
+"bhop" 1744 1312 240 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"block" 1376 -1184 160 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"ice" 1400 656 424 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -360 896 360 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"block" -768 -1432 0 "DenisS* s2 Aily     T! CS" "big" "" "" "" "" "" 90 90
+"ice" 1232 1184 488 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1040 696 440 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1160 1584 304 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"fall" 2496 176 72 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"block" 1376 -1464 288 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"block" 1376 -1208 288 "Ayudantinga kajva*" "big" "" "" "" "" "" 90 90
+"ice" -376 1208 376 "Ayudantinga Cuaje.^" "norm" "" "" "" "" "" 0 0
+"bhop" -528 864 360 "ayudantinga KU|used-----" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 -704 288 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 -552 288 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" -696 1392 224 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 936 -1032 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1176 -472 304 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 760 -480 416 "wckdsck     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1088 -600 320 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" -728 -1232 200 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 832 -632 384 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 784 -1032 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 632 -1032 448 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1064 -352 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" -560 1496 256 "^PaJaRO ;D     T! CS" "big" "0" "" "" "" "" 90 90
+"bhop" 1320 -600 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1320 -776 424 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 1896 1616 280 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"window" 1032 480 440 "^PaJaRO ;D     T! CS" "big" "128.0" "" "" "" "" 0 90
+"bhop" 1864 1472 272 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2040 1728 280 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2152 208 368 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"bhop" 2296 208 368 "wckdsck     T! CS" "norm" "" "" "" "" "" 0 0
+"ice" 1304 -896 296 "^PaJaRO ;D     T! CS" "norm" "" "" "" "" "" 0 0
