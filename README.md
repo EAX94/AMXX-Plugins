@@ -25,16 +25,16 @@ A Soccerjam mod with big modifications.
 ## [TOWER DEFENSE](https://github.com/KlSKE/AMXX-Plugins/tree/master/TOWER%20DEFENSE)
 A co-op mod, waves of monsters follow a path to a tower, monster attacking you, and a final boss after finishing last wave.
 
-## [AUTOMIX](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v3/cstrike)
+## [ZOMBIE PLAGUE v3](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v3/cstrike)
 Zombie Plague v3, used in T! CS.
 
-## [AUTOMIX](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v4/cstrike)
+## [ZOMBIE PLAGUE v4](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v4/cstrike)
 Zombie Plague v4, used in T! CS.
 
-## [AUTOMIX](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v5/cstrike)
+## [ZOMBIE PLAGUE v5](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v5/cstrike)
 Zombie Plague v5, used in GAMINGA.
 
-## [AUTOMIX](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v6/cstrike)
+## [ZOMBIE PLAGUE v6](https://github.com/KlSKE/AMXX-Plugins/tree/master/ZOMBIE%20PLAGUE%20v6/cstrike)
 Zombie Plague v6, not finished but there are systems well implemented.
 
 ## [INCLUDES](https://github.com/KlSKE/AMXX-Plugins/tree/master/Includes)
