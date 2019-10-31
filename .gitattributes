@@ -1,0 +1,2 @@
+special-vendored-path/* linguist-vendored
+*.sql linguist-vendored=false
